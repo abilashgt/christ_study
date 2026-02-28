@@ -1,0 +1,16 @@
+
+**Matthew’s Use of Jeremiah 31:15 in Matthew 2:18**
+
+Jeremiah 31:15 discusses how Rachel weeps for her children from Ramah. Matthew uses that text to describe the moment when Herod kills the children in Bethlehem (Matt. 2:18). Since Jeremiah 31:15 in context seems to be a reflection on the past deportation of Israel, some suggest Matthew is taking the text out of its original context.
+
+While Jeremiah 31:15 itself does recall history, its function in context is more complicated. Jeremiah 31:15 uses Israel’s past deportation to describe the entire era of exile. Several reasons support this. First, Rachel’s weeping (מְבַכָּ֣ה) is a participle denoting characteristic action. Based upon this, Thompson contends Rachel’s weeping might have begun with Israel’s initial deportation but it continues. Second, along this line, God commands Rachel to stop weeping (Jer. 31:16) in the context of the new covenant (Jer. 31:31). This reaffirms Rachel’s crying continues to the future. Her grief pervades the entire period of exile until it ends with the establishment of the new covenant. 
+
+Third, other books have or will use the motifs of Jeremiah 31:15 to describe other parts of exile. Jeremiah introduces Rachel, the mother of the mothers of Israel, weeping. That motif of mothers and the loss of children is a repeated descriptor of the exile (cf. Lam. 2:12). Similarly, Ramah is a place that marks repeated exilic events. Jeremiah himself uses Ramah to discuss not only the exile of the northern kingdom but also the deportation of the southern kingdom (40:1). Other prophecies have used this location to discuss the massive disaster of exile from beginning (Hos. 5:8) to end (Isa. 10:29).63 Thus, the components of Jeremiah 31:15 have applied to various stages of exile. This too supports that the text is a description of the grief of all of exile. It relates to multiple instances of what takes place during that era.
+
+Accordingly, Matthew is quite reasonable in his use of the Old Testament. He shows another case of what Jeremiah 31:15 is talking about: the pain of exile for Israel’s mothers and their children.64 However, Matthew shows what Jeremiah 31:15 discusses has reached a critical point; it is “fulfilled.” This is not only due to the pain of Israel’s abuse but also because of the arrival of the Branch prophesied by Jeremiah to bring about restoration and the new covenant (Matt. 2:23; cf. Isa. 11:1; Jer. 23:5; Nazarene can mean “branch”).65 As Carson states, the tears of Rachel in Jeremiah “are climaxed and ended by the tears of the mothers of Bethlehem. The heir to David’s throne has come, the Exile is over, the true Son of God has arrived, and he will introduce the new covenant (26:24) promised by Jeremiah.”66 
+
+In this way, Matthew continues the motif of exilic suffering, which was found originally in Jeremiah 31:15 and maintained by the prophets. He also understands the predictive elements surrounding Jeremiah 31:15 and demonstrates how climactic exilic suffering gives way to the One who has come to end the lonely exile. Matthew again is rigorously contextual.
+
+Chou, Abner. The Hermeneutics of the Biblical Writers: Learning to Interpret Scripture from the Prophets and Apostles 
+
+
