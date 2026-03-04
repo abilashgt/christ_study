@@ -24,11 +24,11 @@
 		1.  Exile is over
 		2. Son of God arrived
 		3. Will introduce the New Covenant later in Jer 31:31 
-			- (bad citation in the book)
+			- (correction in book needed, not Jer 26:24)
 	4. **Motif of exilic suffering**: Matthew continues the exilic suffering
 		1. originally from Jer 31:15
 		2. maintained by the prophets
 	5. **Predicting the end of exile**: Predictive elements in Jer 31:15 to end exile.
 
-Conclusion
+## Concluding Notes
 - i think the end is not over until Israel as a nation accepts the new covenant.
