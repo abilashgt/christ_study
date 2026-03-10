@@ -9,18 +9,26 @@ Problem
 Solution 1: Prophetic?
 - Zechariah used individuals of his time to portray figure messianic individual.
 	- Joshua, Priest -> Messiah -> Called him :
-		- Branch - Zech. 3:1–10
-		- Servant -6:9–15
+		- Branch
+		- Servant 
+		- Zech. 3:1–10, 6:9–15
 	- Zerubbabel -> actions as:
 		- a "shepherd"
 - Context of Zechariah
 	- Consistent predictive nature - Zechariah 11:9
-	- Prophesies - Zech. 3:8–10; 6:9–15; 8:1–23
+	- Prophesies 
+		- Zech. 3:8–10; 
+		- 6:9–15; 
+		- 8:1–23
 	- Eschatological - Zech. 9:11–17; 10:5–7
-	- Same chapter predict the fall of Jerusalem - Zech 11?
+	- Same chapter predict the fall of Jerusalem 
+		- mistake maybe- Zech 11?
+		- next chapeter Zech 12
 	- Discussion of Shepherd - Zech 11 reflect Ezek 34
+		- Ezek 34:23
 	- New David - Ezek 34:23
 		- future event about messiah
+		- shepherd
 - Conclusion
 	- Prediction actualization
 
