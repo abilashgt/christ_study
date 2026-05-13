@@ -36,6 +36,25 @@ These three views mainly differ on how they understand the "1000 years" in [[Rev
 | Kingdom emphasis | Future earthly kingdom | Kingdom progressively filling the earth in history | Kingdom already present now, awaiting final consummation |
 | General tone about history | Often pessimistic about the course of the age | More optimistic about the course of the age | Realistic tension: victory in Christ, but conflict continues until the end |
 
+## Historic Premillennialism vs Futuristic Premillennialism
+
+This table compares two major premillennial approaches. In many church discussions, "futuristic premillennialism" usually refers to **dispensational premillennialism**.
+
+| Topic | Historic Premillennialism | Futuristic Premillennialism |
+|---|---|---|
+| Basic view | Christ returns before a future millennium | Christ returns before a future millennium |
+| Reading of prophecy | Often mixes literal and symbolic interpretation | Usually emphasizes a more consistently literal reading, especially for Israel and end-time prophecy |
+| Israel and the church | Usually sees one people of God across redemptive history | Usually makes a stronger distinction between Israel and the church |
+| Tribulation | Church usually passes through tribulation | Often teaches a future seven-year tribulation distinct from the church age |
+| Rapture | Usually tied closely to Christ's visible second coming | Often distinguished from the visible second coming, especially in pre-tribulational systems |
+| Second coming | Generally one main return of Christ before the millennium | Often presented in phases: rapture, then later visible return in glory |
+| Millennium | Future earthly reign of Christ | Future earthly reign of Christ |
+| Resurrection | Often sees believers raised at Christ's return, with final judgment afterward | Often includes more detailed resurrection stages in the end-times sequence |
+| Revelation 20 | Future and usually straightforwardly millennial | Future and part of a larger end-times framework including tribulation and kingdom |
+| Daniel and Revelation | Important, but not always mapped into a highly detailed timetable | Often arranged into a more detailed prophetic chronology |
+| Kingdom promises | Fulfilled in Christ and His reign, often including the church in those promises | Often emphasizes national Israel's future restoration in a distinct way |
+| Common tone | Older, church-historical premillennial view | More systematized prophetic framework, especially in dispensational teaching |
+
 ## Key Bible Passages Often Used
 
 ### Premillennialism
