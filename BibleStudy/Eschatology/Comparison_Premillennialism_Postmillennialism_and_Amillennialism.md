@@ -36,6 +36,7 @@ These three views mainly differ on how they understand the "1000 years" in [[Rev
 | Kingdom emphasis | Future earthly kingdom | Kingdom progressively filling the earth in history | Kingdom already present now, awaiting final consummation |
 | General tone about history | Often pessimistic about the course of the age | More optimistic about the course of the age | Realistic tension: victory in Christ, but conflict continues until the end |
 | Main proponents in church history | Papias, Justin Martyr, Irenaeus, Tertullian, Lactantius | Daniel Whitby, Jonathan Edwards, Charles Hodge, A. A. Hodge, B. B. Warfield | Tyconius, Augustine, Anselm, Thomas Aquinas, Martin Luther, John Calvin |
+| Current/recent proponents | John Piper, John MacArthur, Craig Blaising | Kenneth Gentry Jr., Douglas Wilson, Gary DeMar | Sam Storms, Michael Horton, Kim Riddlebarger |
 
 ## Historic Premillennialism vs Futuristic Premillennialism
 
@@ -56,6 +57,7 @@ This table compares two major premillennial approaches. In many church discussio
 | Kingdom promises | Fulfilled in Christ and His reign, often including the church in those promises | Often emphasizes national Israel's future restoration in a distinct way |
 | Common tone | Older, church-historical premillennial view | More systematized prophetic framework, especially in dispensational teaching |
 | Main proponents in church history | Papias, Justin Martyr, Irenaeus, Tertullian, Lactantius, George Eldon Ladd | John Nelson Darby, C. I. Scofield, Lewis Sperry Chafer, John Walvoord, Charles Ryrie |
+| Current/recent proponents | John Piper, Craig L. Blomberg, Douglas Moo | John MacArthur, Craig Blaising, Mark Snoeberger |
 
 ## Key Bible Passages Often Used
 
