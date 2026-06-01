@@ -54,7 +54,7 @@ Jesus
 
 #### Redemptive History
 
-- continuation of the story line found in the Old Testament.
+- Continuation of the story line found in the Old Testament by the Gospel writers.
 - Matthew’s genealogy completes the genealogies found in Genesis (5:1–32) and Ruth (4:13–22),
 	- final line of the Seed promised in Genesis 3:15
 - story of Israel’s exile resume
@@ -77,13 +77,52 @@ Jesus
 	- new David, and faces the same trials as David (1 Sam. 24–26) and Israel (Num. 12–14; cf. Deut. 7–8) 
 	- to prove that he can represent his people and resurrect the royal dynasty.
 	- Davidic kings fails, but Christ is victorious
-- Jesus’s miraculous and compassionate acts fulfill prophecy (cf. Matt. 8:17; 12:20; John 2:17; cf. Ps. 69:9; Isa. 42:3; 53:4).
-- Even the geography of his ministry is significant per Isaiah (Matt. 4:15; cf. Isa. 9:1).
-- closes one era and his resurrection launches a new one.
-	- the first day of the week, alluding to the first day of a new creation (Luke 24:1).
-	- Jesus is mistaken for a gardener) that may evoke a sense of a new Adam (John 20:15) and a return to Eden (cf. Gen. 2:8).
-- post-resurrection appearances of Christ also allude to the undoing of Genesis 3.
+- Jesus’s miraculous and compassionate acts fulfill prophecy 
+	- (cf. Matt. 8:17; 12:20; John 2:17; cf. Ps. 69:9; Isa. 42:3; 53:4).
+- Even the geography of his ministry is significant per Isaiah “
+	- (Matt. 4:15; cf. Isa. 9:1).
+- Jesus's death closes one era 
+- Jesus's resurrection starts a new era.
+	- the first day of the week is the first day of a new creation (Luke 24:1).
+	- Jesus is mistaken for a gardener) that may evoke a sense of a 
+		- new Adam (John 20:15) 
+		- return to Eden (cf. Gen. 2:8).
+	- post-resurrection appearances of Christ also allude to the undoing of Genesis 3.
+		- Jesus opens the eyes of Cleopas and his friend on the road to Emmaus.
+			- Emmaus. As Ortlund observes, the phrase “their eyes were opened” (διηνοίχθησαν οἱ ὀφθαλμοὶ, Luke 24:31) is unique, only previously occurring when Adam’s and the woman’s eyes were opened in the garden (Gen. 3:7).
+		- In Genesis, that was to their shame. In Luke, this is reversed for salvation
+	- resurrection - advances the redemptive historical narrative
+- New Development not foreseen in the Old Testament
+	- Process How? What is missing and what is new or added.
+	- Missing: Israel is not restored though Christ is come, envisioned in OT
+		- (cf. Isa. 2:1–4; 11:1–9; 53–54; Amos 9:11–15)
+		- disciples who wondered when Christ would restore the kingdom to Israel (Acts 1:6).
+	- New: Church, new entity
+		- Church -> Proclaimed God’s salvation and hope to the Jewish people (Acts 3:19).
+		- Church -> God’s instrument for this time (Acts 4:12; 11:26).
+	- Missing and additions don't change the OT story line of Israel.
+		- Christ’s coming will fulfill the Davidic and Abrahamic covenantal promises (Luke 1:69–73), 
+			- Plus national deliverance and spiritual restoration 
+			- (Luke 1:75–79).
+		- Jesus’s Olivet Discourse explains how 
+			- (Isa. 27:13; Dan. 7:9–13; 12:1; Zech. 9:14) to 
+		- describe a great time of tribulation for those in Jerusalem and Israel. Following this, Christ will come and usher in great deliverance (cf. Matt. 24:29–31).
+		- Israel should repent (Acts 3:19–21)
+		- to set the world to right (Isa. 60:1–22; 65:17).
+	- Church participates in the same redemptive historical plan, not new plan
+		- They are the firstfruit (cf. Acts 2:1–4)
+		- demonstrate that indeed history is in the latter days (Acts 2:17–21; Joel 2:28–32 [Heb. 3:1–5])
+		- commission by the Lord echoes what Isaiah proclaimed 
+			- (Acts 1:8; cf. Isa. 49:6)
+			-  Salvation to the nations
+	- add unforeseen details,
 
+Chou, Abner. The Hermeneutics of the Biblical Writers: Learning to Interpret Scripture from the Prophets and Apostles (p. 159). (Function). Kindle Edition. 
+- Conclustion: The gospel writers 
+	- operate with the same “big picture” logic as their predecessors.
+	- paradigm is interwoven into the narratives
+		- Paradigm - framework or model on how people think
+	- culminates Old Testament concepts and expectations.
 
 
 
