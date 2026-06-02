@@ -38,29 +38,31 @@ In **dispensational interpretation**:
 ## One-Line Chart
 
 ```text
-445/444 BC (Artaxerxes' decree) -> 7 weeks / 49 years -> 62 weeks / 434 years -> AD 32/33 (end of 69th week; Messiah presented) -> Messiah cut off -> AD 70 (Jerusalem destroyed) -> Gap / Church Age -> Future 70th week / 7-year tribulation -> Midpoint / 3.5 years (covenant broken; sacrifices stop; abomination of desolation) -> End of 70th week (Christ returns; judgment; kingdom established)
+445/444 BC (Nehemiah 2:1-8; Artaxerxes' decree) -> 7 weeks / 49 years (Daniel 9:25) -> 62 weeks / 434 years (Daniel 9:25) -> AD 32/33 (Daniel 9:25-26; end of 69th week; Messiah presented) -> Messiah cut off (Daniel 9:26; Isaiah 53:8) -> AD 70 (Matthew 24:1-2; Luke 21:20-24; Jerusalem destroyed) -> Gap / Church Age -> Future 70th week / 7-year tribulation (Daniel 9:27; Matthew 24:15-21) -> Midpoint / 3.5 years (Daniel 9:27; 2 Thessalonians 2:3-4; Revelation 13:5-8; covenant broken; sacrifices stop; abomination of desolation) -> End of 70th week (Zechariah 14:1-9; Revelation 19:11-21; Christ returns; judgment; kingdom established)
 ```
 
-- **445/444 BC**: decree to rebuild Jerusalem, usually tied to **Artaxerxes' decree in Nehemiah 2**
+## Timeline
+
+- **445/444 BC**: decree to rebuild Jerusalem, usually tied to **Artaxerxes' decree in Nehemiah 2:1-8**
 - **First 69 weeks**: **483 years** total
   This includes:
-  - **7 weeks** = 49 years
-  - **62 weeks** = 434 years
-- **AD 32/33**: end of the **69th week**, often linked to Jesus' presentation as Messiah
+  - **7 weeks** = 49 years (**Daniel 9:25**)
+  - **62 weeks** = 434 years (**Daniel 9:25**)
+- **AD 32/33**: end of the **69th week**, often linked to Jesus' presentation as Messiah (**Daniel 9:25-26**)
 - **After the 69th week**:
-  - the **Messiah is cut off**: crucifixion
-  - Jerusalem is later destroyed: **AD 70**
+  - the **Messiah is cut off**: crucifixion (**Daniel 9:26; Isaiah 53:8**)
+  - Jerusalem is later destroyed: **AD 70** (**Matthew 24:1-2; Luke 21:20-24**)
 - **Gap**: the prophetic clock pauses between the **69th and 70th weeks**
   This is usually identified with the **church age**
-- **Future 70th week**: **7-year tribulation**
-- **Middle of the 70th week**: after **3.5 years**
-  - the coming ruler breaks covenant
-  - sacrifices stop
-  - the **abomination of desolation** occurs
+- **Future 70th week**: **7-year tribulation** (**Daniel 9:27; Matthew 24:15-21**)
+- **Middle of the 70th week**: after **3.5 years** (**Daniel 9:27; Revelation 13:5-8**)
+  - the coming ruler breaks covenant (**Daniel 9:27; 2 Thessalonians 2:3-4**)
+  - sacrifices stop (**Daniel 9:27**)
+  - the **abomination of desolation** occurs (**Daniel 9:27; Matthew 24:15; Daniel 11:31**)
 - **End of the 70th week**:
-  - Christ returns
-  - judgment falls
-  - the kingdom is established
+  - Christ returns (**Zechariah 14:1-9; Revelation 19:11-21**)
+  - judgment falls (**Revelation 19:11-21**)
+  - the kingdom is established (**Zechariah 14:9**)
 
 ## Comparison with Other Views
 
@@ -74,6 +76,12 @@ In **dispensational interpretation**:
 | Meaning of the 70th week                        | A future **7-year tribulation**                                                | Fulfilled in **Christ's covenant work**, His death, and the transition into the apostolic era            | Fulfilled in the **Antiochus IV** oppression and temple desecration                                         |
 | Abomination of desolation                       | A **future antichrist** event in the tribulation                               | Often connected to **AD 70**, or seen as fulfilled first in the Roman destruction and then typologically | Usually identified with **Antiochus IV's desecration of the temple**                                        |
 | Main theological emphasis                       | Distinction between **Israel and the church** and a future prophetic timetable | Fulfillment in **Christ**, with no prophetic gap required                                                | The text is read mainly against the **Second Temple historical crisis**                                     |
+
+## Comparison Passages
+
+- **Dispensational Futurist View**: **Daniel 9:24-27**, **Nehemiah 2:1-8**, **Matthew 24:15-21**, **2 Thessalonians 2:3-4**, **Revelation 13:5-8**, **Zechariah 14:1-9**, **Revelation 19:11-21**
+- **Christ-Centered / Continuous Fulfillment View**: **Daniel 9:24-27**, **Ezra 7:11-26**, **Isaiah 53:8**, **Matthew 27:50-51**, **Matthew 24:15**, **Luke 21:20-24**, **Hebrews 9:11-14**, **Hebrews 10:11-18**
+- **Second-Temple / Maccabean View**: **Daniel 8:9-14**, **Daniel 11:21-35**, **Daniel 12:11**
 
 ## Which View Is More Literal?
 
