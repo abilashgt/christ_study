@@ -140,3 +140,7 @@ In **dispensational interpretation**:
 ## Study Note
 
 - Many **historic premillennial**, **amillennial**, and **postmillennial** interpreters reject the dispensational gap and place the **70th week** in the first-century fulfillment connected to Christ.
+
+## See Also
+
+- [[Jeremiah's_70_Years|Jeremiah's 70 Years]]
