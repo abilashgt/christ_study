@@ -4,6 +4,11 @@
 
 The "490 years of Daniel" comes from **Daniel 9:24-27**, the prophecy of the **seventy weeks**.
 
+Daniel receives this prophecy while praying about **Jeremiah's seventy years** of desolation and restoration:
+- **Daniel 9:1-3**
+- **Jeremiah 25:11-12**
+- **Jeremiah 29:10**
+
 "Weeks" is commonly understood as **sets of seven**:
 - **70 x 7 = 490**
 - these are commonly taken as **years**
@@ -69,6 +74,54 @@ In **dispensational interpretation**:
 | Meaning of the 70th week                        | A future **7-year tribulation**                                                | Fulfilled in **Christ's covenant work**, His death, and the transition into the apostolic era            | Fulfilled in the **Antiochus IV** oppression and temple desecration                                         |
 | Abomination of desolation                       | A **future antichrist** event in the tribulation                               | Often connected to **AD 70**, or seen as fulfilled first in the Roman destruction and then typologically | Usually identified with **Antiochus IV's desecration of the temple**                                        |
 | Main theological emphasis                       | Distinction between **Israel and the church** and a future prophetic timetable | Fulfillment in **Christ**, with no prophetic gap required                                                | The text is read mainly against the **Second Temple historical crisis**                                     |
+
+## Which View Is More Literal?
+
+- In the usual evangelical sense, the **dispensational futurist view** is usually considered the **more literal** reading.
+- That is because it tends to read the prophecy as a more straightforward **future chronological sequence**, including a future **7-year 70th week**, a future **abomination of desolation**, and a future period of tribulation.
+- The **Christ-centered / continuous fulfillment** view is still literal about the **490 years**, but it does **not** read a literal gap between the **69th** and **70th** weeks.
+- The **Second-Temple / Maccabean** view is often more literal in an **immediate historical-context** sense, but not in the same futurist or messianic sense as the dispensational reading.
+
+## Key Bible References
+
+### Main Daniel Passage
+
+- **Daniel 9:24-27**: the central text on the **70 weeks**
+
+### Passages Often Used for the Dispensational Reading
+
+- **Nehemiah 2:1-8**: Artaxerxes' decree to rebuild Jerusalem
+- **Daniel 9:25-26**: rebuilding Jerusalem, then the coming of Messiah and His being "cut off"
+- **Zechariah 9:9**
+- **Matthew 21:1-11**
+- **Luke 19:28-44**: passages often connected to Christ's public presentation as Messiah
+- **Daniel 9:27**: covenant, midpoint, and stopping of sacrifice
+- **Matthew 24:15-21**: abomination of desolation and great tribulation
+- **2 Thessalonians 2:3-4**: the man of lawlessness in God's temple
+- **Revelation 11:2-3**
+- **Revelation 12:6**
+- **Revelation 12:14**
+- **Revelation 13:5-8**: 42 months / 1260 days often connected to the second half of the 70th week
+- **Zechariah 14:1-9**
+- **Revelation 19:11-21**: Christ's return in judgment
+
+### Passages Often Used for the Christ-Centered / Continuous Fulfillment View
+
+- **Ezra 7:11-26**: decree often used as the starting point for a continuous 490-year timeline
+- **Daniel 9:24**: atonement, righteousness, and fulfillment themes
+- **Daniel 9:26-27**: Messiah cut off and covenant language
+- **Isaiah 53:8**: often linked to the Messiah being "cut off"
+- **Matthew 27:50-51**: Christ's death and the tearing of the temple veil
+- **Hebrews 9:11-14**
+- **Hebrews 10:11-18**: Christ's sacrifice as the true fulfillment of the sacrificial system
+- **Matthew 24:15**
+- **Luke 21:20-24**: destruction of Jerusalem often linked with first-century fulfillment
+
+### Passages Often Used for the Second-Temple / Maccabean Reading
+
+- **Daniel 8:9-14**: desecration of the sanctuary
+- **Daniel 11:21-35**: oppression and profanation associated with Antiochus IV
+- **Daniel 12:11**: the abomination and removal of regular sacrifice
 
 ## Summary of Differences
 
