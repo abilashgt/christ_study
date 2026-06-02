@@ -1,3 +1,5 @@
+# Daniel's 70 Weeks: Dispensational Timeline
+
 ## Intro
 
 The "490 years of Daniel" comes from **Daniel 9:24-27**, the prophecy of the **seventy weeks**.
