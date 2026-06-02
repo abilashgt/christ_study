@@ -60,7 +60,7 @@ Jesus
 - story of Israel’s exile resume
 	- Mark (1:2–3) and Luke (3:4–6) 
 	- from Isaiah 40:3 and Malachi 3:1 .
-- John the Baptist is the voice crying out in the wilderness to prepare the way for the Lord.
+	- John the Baptist is the voice crying out in the wilderness to prepare the way for the Lord.
 - John’s gospel is thoroughly engrained in the Old Testament as he begins with “in the beginning” (cf. Gen. 1:1).
 	- life of Christ as the inauguration of new creation, 
 	- a theme that extends from Genesis through Isaiah.
@@ -115,9 +115,6 @@ Jesus
 		- commission by the Lord echoes what Isaiah proclaimed 
 			- (Acts 1:8; cf. Isa. 49:6)
 			-  Salvation to the nations
-	- add unforeseen details,
-
-Chou, Abner. The Hermeneutics of the Biblical Writers: Learning to Interpret Scripture from the Prophets and Apostles (p. 159). (Function). Kindle Edition. 
 - Conclustion: The gospel writers 
 	- operate with the same “big picture” logic as their predecessors.
 	- paradigm is interwoven into the narratives
