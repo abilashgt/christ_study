@@ -4,7 +4,7 @@
 - **Paul** is the author (v1, v9, v19)
 - Prison Epistle
 
-Audience
+### Audience
 - Philemon (v1), prominent member of church at Colosse
 - His Family (v2)
 - Church, gathered in his house (v2)
@@ -46,7 +46,9 @@ Audience
 
 ## Outline
 1. Greeting (1 - 3)
-2. 
+2. ? (4-7)
+3. ? (8-10)
+4. ? (19-35)
 
 ## Some Important Points
 - Grace through Salvation of Lord Jesus results in Peace (From introduction)
