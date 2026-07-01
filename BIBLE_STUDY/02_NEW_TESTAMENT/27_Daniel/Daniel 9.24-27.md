@@ -14,8 +14,8 @@
 	3. To make atonement for iniquity.
 	4. To bring in everlasting righteousness.
 	5. To seal up vision and prophecy
-	6. To anoint the Holy of Holies
-- Timeline (v25) 
+	6. To anoint the Holy of Holies => ?
+- **Timeline (v25)** 
 	- 7 weeks + 62 weeks => 483 years
 		- From the going out of a word
 		- To restore and rebuild Jerusalem
@@ -25,9 +25,8 @@
 			- After 62 weeks => 7 + 62 => 483 years
 			- Messiah cut off = cross?
 			- Have nothing => ?
-		- And the people of the prince who is to come 
+		- And the people of the prince who is to come => ?
 			- will destroy the city and the sanctuary.
-			- ?
 		- And its end will come with a flood; 
 			- even to the end there will be war; 
 		- desolations are decreed. 
