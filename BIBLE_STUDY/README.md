@@ -24,15 +24,18 @@
 ### 2.3 Definitions
 - [Terminologies in Bible.md](Definitions/Terminologies%20in%20Bible.md)
 
-### 2.4 Eschatology
+### 2.4 Ecclesiology
+- [Church vs Israel.md](Ecclesiology/Church%20vs%20Israel.md)
+
+### 2.5 Eschatology
 - [Comparison_Premillennialism_Postmillennialism_and_Amillennialism.md](Eschatology/Comparison_Premillennialism_Postmillennialism_and_Amillennialism.md)
 - [Daniel_70_Weeks_-_Dispensational_Timeline.md](Eschatology/Daniel_70_Weeks_-_Dispensational_Timeline.md)
 - [Jeremiah's_70_Years.md](Eschatology/Jeremiah%27s_70_Years.md)
 
-### 2.5 Hermanuetics
+### 2.6 Hermanuetics
 - [Comparison_of_Major_Hermeneutical_Approaches.md](Hermanuetics/Comparison_of_Major_Hermeneutical_Approaches.md)
 
-### 2.6 Trinity
+### 2.7 Trinity
 - [efs_vs_non_efs_on_eternal_generation.md](Trinity/efs_vs_non_efs_on_eternal_generation.md)
 
 ## 3. Testament Studies
