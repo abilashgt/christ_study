@@ -73,6 +73,22 @@ The positive side is a serious and frequent remembrance of Christ’s death. The
 
 Source: [Joseph Prince Ministries — “We Believe,” section on Holy Communion](https://www.josephprince.org/about/we-believe)
 
+## Summary table: theology and objections
+
+| Topic | Joseph Prince’s theology | Main objection | Scriptures for evaluation |
+|---|---|---|---|
+| Gospel and grace | Salvation and acceptance with God rest entirely on Christ’s finished work, not human performance. | This is a needed correction to works-righteousness, but “grace” can be expanded into a formula for guaranteed earthly success. | Ephesians 2:8–10; Romans 3:28; Titus 2:11–14 |
+| Law and the Christian | Believers are under the new covenant of grace, not the Mosaic law; the law mainly exposes sin and condemns. | Justification is not by law-keeping, but God’s moral instruction still guides Christian obedience and exposes sin in believers. | Romans 3:20–31; Matthew 5:17–20; Romans 13:8–10; 2 Timothy 3:16–17 |
+| Righteousness | Believers are permanently righteous and accepted because of Christ’s obedience; they should focus on Christ’s righteousness rather than sin-consciousness. | Assurance is biblical, but believers are still commanded to confess sin, examine themselves, and pursue holiness. | Romans 5:17; 1 John 1:8–10; 2 Corinthians 13:5; Hebrews 12:14 |
+| Repentance | Repentance is chiefly a change of mind—turning from self-righteousness to trust in Christ’s finished work. | Biblical repentance includes a changed mind but also sorrow over sin and a real turning from sinful conduct. | Mark 1:15; Acts 26:20; 2 Corinthians 7:9–11; Luke 3:8–14 |
+| Sin and discipline | Grace breaks sin’s dominion; God does not correct believers through sickness, accidents, or tragedy. | Grace does not remove the need for correction, discipline, church accountability, or the painful consequences of sin. | Romans 6:1–14; Hebrews 12:5–11; Matthew 18:15–17; Galatians 6:7–8 |
+| Healing | Christ’s atonement includes physical healing; believers should expect healing and claim it by faith. | God heals, but Scripture does not promise immediate physical healing to every believer and presents suffering as part of Christian life. | Isaiah 53:4–5; Matthew 8:16–17; 2 Corinthians 12:7–10; 1 Timothy 5:23; 2 Timothy 4:20 |
+| Prosperity and provision | God desires believers to experience holistic prosperity, provision, protection, success, and financial breakthrough. | God provides for His people, but wealth and success are not universal covenant promises; contentment and sacrificial discipleship are central. | Matthew 6:25–34; 1 Timothy 6:6–10, 17–19; Philippians 4:11–13; Mark 8:34–35 |
+| Positive confession | Speaking God’s promises and commanding sickness, debt, or problems can release blessing and change circumstances. | Faithful prayer submits to God’s will; Scripture does not present human speech as a spiritual mechanism that guarantees desired results. | Proverbs 18:21; Romans 10:9–10; James 4:13–16; 1 John 5:14; 2 Corinthians 12:8–9 |
+| Holy Communion | Communion remembers Christ’s death and, by faith, brings forgiveness, health, wholeness, and peace. | Communion truly proclaims and participates in Christ’s death, but Scripture warns against treating it as a technique or guarantee for bodily healing. | 1 Corinthians 10:16–17; 11:23–29; Luke 22:19–20 |
+| Interpretation of Scripture | Old Testament people, events, and symbols are frequently read as pictures of Christ’s finished work and believers’ blessings. | Biblical typology must follow the text’s context and the New Testament’s own use of the Old Testament; uncontrolled allegory can produce proof-texting. | Luke 24:27, 44–47; 1 Corinthians 10:1–11; 2 Timothy 2:15; Acts 17:11 |
+| Christian suffering | The finished work of Christ gives believers victory over sin, sickness, lack, and oppression. | Christians have victory in Christ while still being called to endure weakness, persecution, suffering, and bodily decay until resurrection. | Romans 8:17–25; 2 Corinthians 4:7–18; Philippians 1:29; 1 Peter 4:12–19 |
+
 ## Main theological concerns
 
 ### A. Law and sanctification
