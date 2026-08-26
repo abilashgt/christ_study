@@ -34,6 +34,7 @@ The word **foundation** can refer to several things: the beginning of a people, 
 | Mission                       | Bear witness to the true God and bless the nations through the promised Messiah ([[Exodus 19:5-6]]; [[Isaiah 49:6]])                                 | Make disciples of all nations and proclaim Christ's finished work ([[Matthew 28:18-20]])                                                                                    |
 | Relationship to the land      | Promised a specific land in God's covenant dealings with Abraham and Israel                                                                          | Citizens of a heavenly kingdom while living as pilgrims in the world ([[Philippians 3:20]]; [[1 Peter 2:11]])                                                               |
 | Relationship to Christ        | The Messiah comes from Israel and fulfills Israel's story                                                                                            | The church is united to Christ as His body and bride ([[Ephesians 5:25-32]])                                                                                                |
+| Ending point                  | Israel's redemptive story culminates in the Messiah's reign, the salvation and restoration promised by God, resurrection, and the fulfillment of His covenant purposes ([[Romans 11:25-29]]; [[Acts 3:19-21]]) | In a pretribulational dispensational view, the church age and its earthly mission end at the rapture; the church is then with Christ while God's prophetic purposes for Israel continue ([[1 Thessalonians 4:16-17]]; [[1 Corinthians 15:51-52]]) |
 
 ### Israel's Foundation in More Detail
 
@@ -197,6 +198,15 @@ According to [[Romans 11:25-29]], Israel's present spiritual condition can be su
 The image of the olive tree teaches that Gentile believers have been grafted in among the natural branches. They stand by faith and must not become proud or despise the branches that were broken off. God is able to graft those natural branches in again ([[Romans 11:17-24]]).
 
 This “partial hardening” describes Israel's spiritual condition in Paul's redemptive-historical argument; it should not be confused with a claim about every Jewish individual, every Jewish community, or the modern political State of Israel. The church's proper response is gospel witness, humility, prayer, and confidence in God's faithfulness—not contempt or boasting ([[Romans 11:20-21, 30-32]]).
+
+### Ending Point: Israel and the Church
+
+“Ending point” means the **eschatological fulfillment** of each people's calling, not the disappearance of one people from God's purposes.
+
+- **Israel:** Israel's story reaches its goal in the Messiah promised through Israel. Scripture speaks of Israel's future salvation, restoration, resurrection, and participation in the consummation of God's kingdom ([[Romans 11:25-29]]; [[Acts 3:19-21]]; [[Ezekiel 37:21-28]]). Christians differ on whether land and national promises are fulfilled through a distinct future for national Israel, through Christ and the church, or through the final new creation.
+- **The church:** In a pretribulational dispensational framework, the church age and its earthly mission end at the rapture. Christ gathers His church to Himself, and the church is then with Him while the prophetic program concerning Israel continues ([[1 Thessalonians 4:16-17]]; [[1 Corinthians 15:51-57]]). The church's final destination remains the resurrection life and eternal dwelling with God in the new creation ([[Revelation 21:1-4, 9-10]]).
+- **Interpretive qualification:** Historic premillennial, postmillennial, and amillennial readings generally do not separate the rapture from Christ's visible second coming in the same way. They understand the church as remaining on earth until Christ's return and final resurrection. The rapture's timing is therefore a major point of disagreement within Christian eschatology.
+- **Shared fulfillment:** Whatever distinctions remain in a particular theological system, the final hope of all who belong to Christ is centered on Christ's reign, resurrection life, God's presence, and the defeat of sin and death ([[Revelation 21:22-27]]; [[Revelation 22:1-5]]).
 
 ## Three Major Interpretive Positions
 
