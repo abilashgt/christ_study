@@ -75,7 +75,7 @@ The new Adam motif explains the saving and justifying work accomplished through 
 	So then as through one transgression there resulted condemnation to all men, even so through one act of righteousness there resulted justification of life to all men. For as through the one man’s disobedience the many were appointed sinners, even so through the obedience of the One the many will be appointed righteous. Now the Law came in so that the transgression would increase, but where sin increased, grace abounded all the more, so that, as sin reigned in death, even so grace would reign through righteousness to eternal life through Jesus Christ our Lord.
 — Romans 5:14-21
 
-#### Christ as the Cornerstone
+#### Christ through Christ as the Cornerstone
 
 The cornerstone imagery identifies Jesus as the foundation of God’s new people and temple.
 - **Psalm 118:22** - The stone which the builders rejected, Has become the chief corner stone.
@@ -90,7 +90,7 @@ This came about from the Lord,
 And it is marvelous in our eyes’?
 - Acts 4:11 - He is the stone which was rejected by you, the builders, but which became the chief corner stone.
 
-#### The Church as the New Temple
+#### The Church as the New Temple made up of Living stones
 
 Believers joined to Christ become the stones of a new temple that continues the temple’s witness to God.
 - Ephesians 2:20–22 - having been built on the foundation of the apostles and prophets, Christ Jesus Himself being the corner stone, in whom the whole building, being joined together, is growing into a holy sanctuary in the Lord, in whom you also are being built together into a dwelling of God in the Spirit.
@@ -100,7 +100,7 @@ Has become the chief corner stone.
 
 #### The Church Revealing God’s Presence
 
-Spirit-filled and sanctified believers display God’s continuing presence to the watching world.
+Spirit-filled and sanctified believers display God’s continuing presence to the watching world. God filled the temple with his glory in OT. New creation, we are the temple of the holy spirit.
 - Ephesians 5:18 - And do not get drunk with wine, for that is dissipation, but be filled with the Spirit,
 - 1 Corinthians 6:19–20 - Or do you not know that your body is a sanctuary of the Holy Spirit who is in you, whom you have from God, and that you are not your own? For you were bought with a price: therefore glorify God in your body.
 
@@ -115,6 +115,13 @@ Spirit-filled and sanctified believers display God’s continuing presence to th
 | Domain              | Psalm 8:7 -> Gen.<br>originally promised dominion. But lost. | Continues God's plan. Dominion restored. | Christ will have the dominion originally promised to man |
 |                     |                                                              |                                          |                                                          |
 |                     |                                                              |                                          |                                                          |
+
+Temple Types
+
+| Old Testament    | New Humanity  | Church        | Future Jeruselem     |
+| ---------------- | ------------- | ------------- | -------------------- |
+| Nation of Israel | Spirit Filled | Living Stones | Nation of Israel     |
+| Old Covenant     | New Covenant  | Christ's body | Tribulation Prophesy |
 
 
 
