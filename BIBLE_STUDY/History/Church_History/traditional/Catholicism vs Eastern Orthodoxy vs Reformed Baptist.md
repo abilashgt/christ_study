@@ -2,32 +2,33 @@
 
 ## Primary Issues
 
-| Question | Catholicism | Eastern Orthodoxy | Reformed Baptist |
-|---|---|---|---|
-| **Source of salvation** | God’s grace through Jesus Christ | God’s grace through Jesus Christ | God’s grace through Jesus Christ |
-| **How salvation is received** | Faith working through love within the Church and its sacraments | Faith, repentance, and participation in the life of the Church | Faith alone in Christ alone |
-| **Justification** | God makes the believer righteous through grace | Emphasizes healing, transformation, and union with God | God declares sinners righteous through Christ’s imputed righteousness |
-| **Role of good works** | Necessary fruit of grace and love | Part of faithful cooperation with divine grace | Evidence of genuine faith, not the basis of justification |
-| **Baptism** | Sacrament that ordinarily begins new life in Christ and incorporates a person into the Church; infants may be baptized | Mystery through which a person enters the Church and receives new life in Christ; infants may be baptized | Ordinance symbolizing union with Christ; given only to professing believers and not the basis of justification |
-| **Confession and repentance** | Sacramental confession to a priest is ordinarily required after serious post-baptismal sin | Confession and repentance before God, normally with a priest or spiritual father, restore communion with the Church | Repentance and confession are directed to God; pastoral accountability may be practiced, but there is no sacramental priesthood |
-| **Human response** | Faith cooperates with grace | Humans cooperate with divine grace, often called **synergy** | Faith is God’s gift, received through repentance and trust in Christ |
-| **Perseverance** | A person must continue in faith and charity | Emphasizes continuing in faith and communion with God | Usually teaches preservation and perseverance of the saints |
-| **Ultimate goal** | Eternal communion with God | Communion with God and transformation into his likeness, called **theosis** | Glorification with Christ and eternal life with God |
+| Question                      | Catholicism                                                                                                            | Eastern Orthodoxy                                                                                                   | Reformed Baptist                                                                                                                | Comments |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- ---|
+| **Source of salvation**       | God’s grace through Jesus Christ                                                                                       | God’s grace through Jesus Christ                                                                                    | God’s grace through Jesus Christ                                                                                                 |
+| **How salvation is received** | Faith working through love within the Church and its sacraments                                                        | Faith, repentance, and participation in the life of the Church                                                      | Faith alone in Christ alone                                                                                                      |
+| **Justification**             | God makes the believer righteous through grace                                                                         | Emphasizes healing, transformation, and union with God                                                              | God declares sinners righteous through Christ’s imputed righteousness                                                            |
+| **Role of good works**        | Necessary fruit of grace and love                                                                                      | Part of faithful cooperation with divine grace                                                                      | Evidence of genuine faith, not the basis of justification                                                                        |
+| **Church authority**          | Pope, bishops, Scripture, and Sacred Tradition                                                                         | Bishops, councils, Scripture, and Holy Tradition                                                                    | Scripture as final authority; elders and the local congregation                                                                  |
+| **Purgatory**                 | Teaches a post-death purification for those who die in God’s grace but are not fully purified                          | Rejects the Catholic doctrine as formally defined; teaches an intermediate state and prayer for the departed        | Rejects purgatory; teaches judgment after death and the final resurrection                                                       |
+| **Baptism**                   | Sacrament that ordinarily begins new life in Christ and incorporates a person into the Church; infants may be baptized | Mystery through which a person enters the Church and receives new life in Christ; infants may be baptized           | Ordinance symbolizing union with Christ; given only to professing believers and not the basis of justification                   |
+| **Confession and repentance** | Sacramental confession to a priest is ordinarily required after serious post-baptismal sin                             | Confession and repentance before God, normally with a priest or spiritual father, restore communion with the Church | Repentance and confession are directed to God; pastoral accountability may be practiced, but there is no sacramental priesthood  |
+| **Human response**            | Faith cooperates with grace                                                                                            | Humans cooperate with divine grace, often called **synergy**                                                        | Faith is God’s gift, received through repentance and trust in Christ                                                             |
+| **Perseverance**              | A person must continue in faith and charity                                                                            | Emphasizes continuing in faith and communion with God                                                               | Usually teaches preservation and perseverance of the saints                                                                      |
+| **Ultimate goal**             | Eternal communion with God                                                                                             | Communion with God and transformation into his likeness, called **theosis**                                         | Glorification with Christ and eternal life with God                                                                              |
 
 All three affirm that salvation comes from God’s grace through Jesus Christ. Their differences concern how justification, baptism, repentance, confession, works, and perseverance relate to salvation.
 
 ## Secondary or Peripheral Issues
 
-| Issue | Catholicism | Eastern Orthodoxy | Reformed Baptist |
-|---|---|---|---|
-| **Church authority** | Pope, bishops, Scripture, and Sacred Tradition | Bishops, councils, Scripture, and Holy Tradition | Scripture as final authority; elders and the local congregation |
-| **Communion** | Christ truly present; transubstantiation | Christ truly present as a mystery | Spiritual communion with Christ; usually not physical presence |
-| **Mary and the saints** | Honored; saints may be asked to intercede | Strongly honored; saints may be asked to intercede | Honored as examples; prayer is directed to God alone |
-| **Worship style** | Mass and established liturgy | Ancient Divine Liturgy | Usually preaching-centered worship |
-| **Church structure** | Universal, hierarchical church under the Pope | Communion of self-governing churches | Congregational churches led by pastors and elders |
-| **Number of sacraments or ordinances** | Seven sacraments | Seven mysteries | Two ordinances |
-| **Clergy** | Latin-rite priests normally celibate | Married men may become priests; bishops are celibate | Pastors and elders may marry |
-| **Church membership** | Includes baptized infants | Includes baptized infants | Normally limited to those who credibly profess faith |
+| Issue | Catholicism | Eastern Orthodoxy | Reformed Baptist | Comments |
+|---|---|---|------|
+| **Communion** | Christ truly present; transubstantiation | Christ truly present as a mystery | Spiritual communion with Christ; usually not physical presence  |
+| **Mary and the saints** | Honored; saints may be asked to intercede | Strongly honored; saints may be asked to intercede | Honored as examples; prayer is directed to God alone  |
+| **Worship style** | Mass and established liturgy | Ancient Divine Liturgy | Usually preaching-centered worship  |
+| **Church structure** | Universal, hierarchical church under the Pope | Communion of self-governing churches | Congregational churches led by pastors and elders  |
+| **Number of sacraments or ordinances** | Seven sacraments | Seven mysteries | Two ordinances  |
+| **Clergy** | Latin-rite priests normally celibate | Married men may become priests; bishops are celibate | Pastors and elders may marry  |
+| **Church membership** | Includes baptized infants | Includes baptized infants | Normally limited to those who credibly profess faith  |
 
 ## References
 
