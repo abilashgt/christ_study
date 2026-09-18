@@ -29,12 +29,29 @@ All three affirm that salvation comes from God’s grace through Jesus Christ. T
 | **Clergy** | Latin-rite priests normally celibate | Married men may become priests; bishops are celibate | Pastors and elders may marry |
 | **Church membership** | Includes baptized infants | Includes baptized infants | Normally limited to those who credibly profess faith |
 
-## Source Documents
+## References
 
-- **The Holy Bible:** Romans 3–5; Romans 6:1–14; Ephesians 2:1–10; John 3:1–8; Acts 2:38–41; 1 Peter 3:18–22; James 2:14–26; 1 John 1:8–9.
-- **Nicene-Constantinopolitan Creed (381):** Shared historical creed of Catholicism and Eastern Orthodoxy, and affirmed by most Reformed Baptists.
-- **Catholicism:** *Catechism of the Catholic Church*, especially §§ 1213–1284 (Baptism), §§ 1422–1498 (Penance and Reconciliation), and §§ 1987–2029 (Grace and Justification). [Vatican text](https://www.vatican.va/content/catechism/en.html)
-- **Eastern Orthodoxy:** Orthodox Church in America, *The Orthodox Faith*, especially the sections on [Sacraments](https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-sacraments), [Baptism](https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-sacraments/baptism), and [Penance](https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-sacraments/penance).
-- **Reformed Baptist:** *The Second London Baptist Confession of Faith (1689)*, especially chapters 10–11 (Effectual Calling and Justification), chapter 14 (Saving Faith), chapter 17 (Perseverance), and chapter 29 (Baptism). [Text](https://baptistconfession.org/)
+- **The Holy Bible** — Romans 3–5; Romans 6:1–14; Ephesians 2:1–10; John 3:1–8; Acts 2:38–41; 1 Peter 3:18–22; James 2:14–26; 1 John 1:8–9.
+- **Nicene-Constantinopolitan Creed (381)** — Shared historical creed of Catholicism and Eastern Orthodoxy, and affirmed by most Reformed Baptists.
+- **Catholic Church:**
+  - [Catechism of the Catholic Church](https://www.vatican.va/content/catechism/en.html)
+  - Original promulgation: **11 October 1992**
+  - Latin *editio typica*: **15 August 1997**
+  - [*Fidei Depositum*](https://www.vatican.va/content/john-paul-ii/en/apost_constitutions/documents/hf_jp-ii_apc_19921011_fidei-depositum.html) — promulgating document, 11 October 1992
+  - [*Laetamur Magnopere*](https://www.vatican.va/content/john-paul-ii/en/apost_letters/1997/documents/hf_jp-ii_apl_15081997_laetamur.html) — promulgating the Latin *editio typica*, 15 August 1997
+  - [The Sacrament of Baptism](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_one/article_1.html) — §§ 1213–1284
+  - [Penance and Reconciliation](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_two/article_4.html) — §§ 1422–1498
+  - [Grace and Justification](https://www.vatican.va/content/catechism/en/part_three/section_one/chapter_three/article_2.html) — §§ 1987–2029
+- **Orthodox Church in America:**
+  - [The Orthodox Faith](https://www.oca.org/orthodoxy/the-orthodox-faith)
+  - [Sacraments](https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-sacraments)
+  - [Baptism](https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-sacraments/baptism)
+  - [Penance](https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-sacraments/penance)
+- **Reformed Baptist Churches:**
+  - [The Second London Baptist Confession of Faith (1689)](https://baptistconfession.org/)
+  - Chapters 10–11 — Effectual Calling and Justification
+  - [Chapter 14 — Saving Faith](https://1689londonbaptistconfession.com/14/)
+  - [Chapter 17 — Perseverance](https://1689londonbaptistconfession.com/17/)
+  - [Chapter 29 — Baptism](https://1689londonbaptistconfession.com/29/)
 
 These are representative primary or confessional documents; each tradition contains internal theological diversity.
