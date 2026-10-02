@@ -1,30 +1,32 @@
 # Biblical Covenants
 
-This note lists the major covenants explicitly presented in Scripture. The Land Covenant is included under the Mosaic/Sinai Covenant rather than listed separately.
+This note lists the major covenants explicitly presented in Scripture. The Land Covenant is listed separately as covenant 3.a.
 
 ## Major explicit biblical covenants
 
-| No. | Covenant | Parties | Main passages | Promise, obligation, or purpose | Sign or seal |
-|---|---|---|---|---|---|
-| 1 | **Noahic Covenant** | God, Noah, his descendants, and every living creature | Genesis 6:18; 8:20–9:17 | God promises never again to destroy the earth by a flood. Human life is protected and humanity is responsible to respect the sanctity of blood. | Rainbow — Genesis 9:12–17 |
-| 2 | **Abrahamic Covenant** | God, Abraham, and his household | Genesis 12:1–3; 15; 17 | God promises Abraham descendants, land, and blessing to all nations through him. | Circumcision — Genesis 17:9–14 |
-| 3 | **Mosaic/Sinai Covenant** | God and Israel | Exodus 19–24; Deuteronomy 5; 29–30 | Israel becomes God's covenant nation, receives the Law, and is given covenant promises concerning the land, repentance, restoration, and blessing. | Sabbath and covenant blood — Exodus 24:3–8; 31:12–17 |
-| 4 | **Levitical/Priestly Covenant** | God and the priestly line | Numbers 18:19; 25:10–13; Nehemiah 13:29 | God establishes a lasting priesthood and associates Phinehas's line with a covenant of peace. | Priestly office and covenant of peace |
-| 5 | **Davidic Covenant** | God and David | 2 Samuel 7:8–16; 23:5; Psalm 89:3–4 | God promises an enduring royal dynasty and kingdom, ultimately fulfilled in the Messiah. | Davidic throne and royal lineage |
-| 6 | **New Covenant** | God and His people through Jesus Christ | Jeremiah 31:31–34; Ezekiel 36:25–27; Luke 22:20; Hebrews 8–10 | God promises forgiveness, a new heart, His Law written inwardly, and the Holy Spirit. | Lord's Supper/Communion — Luke 22:20; 1 Corinthians 11:23–26. Christ's blood is the covenant's ratifying basis. |
+| No. | Covenant                        | Parties                                               | Main passages                                                 | Promise, obligation, or purpose                                                                                                                 | Sign or seal                                                                                                    |
+| --- | ------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| 1   | **Noahic Covenant**             | God, Noah, his descendants, and every living creature | Genesis 6:18; 8:20–9:17                                       | God promises never again to destroy the earth by a flood. Human life is protected and humanity is responsible to respect the sanctity of blood. | Rainbow — Genesis 9:12–17                                                                                       |
+| 2   | **Abrahamic Covenant**          | God, Abraham, and his household                       | Genesis 12:1–3; 15; 17                                        | God promises Abraham descendants, land, and blessing to all nations through him.                                                                | Circumcision — Genesis 17:9–14                                                                                  |
+| 3   | **Mosaic/Sinai Covenant**       | God and Israel                                        | Exodus 19–24; Deuteronomy 5                                   | Israel becomes God's covenant nation and receives the Law.                                                                                      | Sabbath and covenant blood — Exodus 24:3–8; 31:12–17                                                            |
+| 3.a | **Land Covenant**               | God and Israel                                        | Deuteronomy 29–30                                             | Israel receives covenant promises concerning the land, repentance, restoration, and blessing.                                                   | Covenant renewal in Moab — Deuteronomy 29:1                                                                     |
+| 4   | **Levitical/Priestly Covenant** | God and the priestly line                             | Numbers 18:19; 25:10–13; Nehemiah 13:29                       | God establishes a lasting priesthood and associates Phinehas's line with a covenant of peace.                                                   | Priestly office and covenant of peace                                                                           |
+| 5   | **Davidic Covenant**            | God and David                                         | 2 Samuel 7:8–16; 23:5; Psalm 89:3–4                           | God promises an enduring royal dynasty and kingdom, ultimately fulfilled in the Messiah.                                                        | Davidic throne and royal lineage                                                                                |
+| 6   | **New Covenant**                | God and His people through Jesus Christ               | Jeremiah 31:31–34; Ezekiel 36:25–27; Luke 22:20; Hebrews 8–10 | God promises forgiveness, a new heart, His Law written inwardly, and the Holy Spirit.                                                           | Lord's Supper/Communion — Luke 22:20; 1 Corinthians 11:23–26. Christ's blood is the covenant's ratifying basis. |
 
 ## Summary
 
 - **Noahic:** preservation of creation after judgment.
 - **Abrahamic:** a chosen family through whom blessing comes to the nations.
 - **Mosaic/Sinai:** Israel formed as God's covenant nation under His Law.
+- **Land Covenant:** Israel's covenant relationship to the land, repentance, restoration, and blessing.
 - **Levitical/Priestly:** a continuing priesthood and covenant of peace.
 - **Davidic:** an everlasting royal line and Messianic King.
 - **New Covenant:** forgiveness, regeneration, and fellowship with God through Jesus Christ.
 
 ## Covenant progression
 
-**Noah → Abraham → Moses/Israel → David → Jesus Christ and the New Covenant**
+**Noah → Abraham → Moses/Israel → Land → David → Jesus Christ and the New Covenant**
 
 The New Covenant fulfills the promises and patterns of the earlier covenants through the person and work of Jesus Christ (Luke 1:32–33; 2 Corinthians 1:20; Hebrews 8:6–13).
 
@@ -38,6 +40,7 @@ The New Covenant fulfills the promises and patterns of the earlier covenants thr
 | 1   | **Noahic Covenant**                         | Biblical covenant — **Yes**                  | Genesis 6:18; 8:20–9:17                        | Rainbow — Genesis 9:12–17                                                                                                 | Covenant with Noah, humanity, and every living creature.                                 |
 | 2   | **Abrahamic Covenant**                      | Biblical covenant — **Yes**                  | Genesis 12:1–3; 15; 17                         | Circumcision — Genesis 17:9–14                                                                                            | Includes the promise of descendants, land, and blessing.                                 |
 | 3   | **Mosaic/Sinai Covenant**                   | Biblical covenant — **Yes**                  | Exodus 19–24; Deuteronomy 5; 29–30             | Sabbath, covenant blood, and the tablets of the Law — Exodus 24:3–8; 31:12–17                                             | Includes Israel's Law and covenant relationship to the land.                             |
+| 3.a | **Land Covenant**                           | Biblical covenant — **Yes**                  | Deuteronomy 29–30                             | Covenant renewal in Moab — Deuteronomy 29:1                                                                                | Concerns Israel's relationship to the land, repentance, restoration, and blessing.         |
 | 4   | **Levitical/Priestly Covenant**             | Biblical covenant — **Yes**                  | Numbers 18:19; 25:10–13; Nehemiah 13:29        | No distinct outward sign explicitly identified; the priestly office and covenant of salt are associated with it.          | Includes the priesthood, covenant of peace, and covenant of salt.                        |
 | 5   | **Davidic Covenant**                        | Biblical covenant — **Yes**                  | 2 Samuel 7:8–16; Psalm 89:3–4                  | No distinct covenant sign explicitly identified; the enduring throne and royal line function as its visible marker.       | Promises an enduring royal dynasty fulfilled in the Messiah.                             |
 | 6   | **New Covenant**                            | Biblical covenant — **Yes**                  | Jeremiah 31:31–34; Luke 22:20; Hebrews 8–10    | Lord's Supper/Communion — Luke 22:20; 1 Corinthians 11:23–26. Christ's blood is the covenant's ratifying basis.           | Promises forgiveness, a new heart, and the Holy Spirit through Jesus Christ.             |
