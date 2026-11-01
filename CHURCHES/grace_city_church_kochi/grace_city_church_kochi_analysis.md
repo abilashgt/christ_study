@@ -27,12 +27,13 @@ The attached document is a Membership Class Handout containing teaching on the g
 
 ### 3. Humanity and Sin
 
-| Doctrine | Website | Document (PDF) | Clarity | Notes |
-|---|---|---|---|---|
-| Image of God | Not clearly developed | Men and women possess equal dignity and worth | **Clear** | Application to specific ethical issues |
-| Human purpose | Not clearly stated | People are made to worship, obey, love and enjoy God | **Clear** | — |
-| The Fall | Human nature is corrupted through the Fall | Human nature is corrupted through the Fall | **Clear** | Strong agreement |
-| Human inability | People are spiritually dead, guilty and hostile to God | Same, with added language about dignity and accountability | **Clear** | Strong agreement |
+| Doctrine        | Website                                                        | Document (PDF)                                                                                     | Clarity   | Notes                                                                                                                |
+| --------------- | -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | --------- | -------------------------------------------------------------------------------------------------------------------- |
+| Image of God    | Not clearly developed                                          | Men and women possess equal dignity and worth                                                      | **Clear** | Application to specific ethical issues                                                                               |
+| Human purpose   | Not clearly stated                                             | People are made to worship, obey, love and enjoy God                                               | **Clear** | —                                                                                                                    |
+| The Fall        | Human nature is corrupted through the Fall                     | Human nature is corrupted through the Fall                                                         | **Clear** | Strong agreement                                                                                                     |
+| Human inability | People are spiritually dead, guilty and hostile to God         | Same, with added language about dignity and accountability                                         | **Clear** | Strong agreement                                                                                                     |
+| Total depravity | People are without spiritual life and under God’s condemnation | Every aspect of human nature is corrupted; sinners are spiritually dead, guilty and hostile to God | **Clear** | Affirmed in the classic Reformed sense: sin affects the whole person, not that every person is as sinful as possible |
 
 ### 4. Christ
 
@@ -111,37 +112,6 @@ The attached document is a Membership Class Handout containing teaching on the g
 | Eternal life | The righteous will enjoy eternal fellowship with God | The righteous will enjoy eternal fellowship with God | **Clear** | Strong agreement |
 | New creation | God will make all things new | God will make all things new | **Clear** | Strong agreement |
 | Millennium and tribulation | No detailed position is given | No detailed position is given | **Unclear** | Premillennial, amillennial or postmillennial view |
-
-## Notes: document versus website
-
-| Topic | Attached document | Website | Note |
-|---|---|---|---|
-| Overall identity | Membership teaching, doctrine, covenant and constitution | Publicly describes the church as evangelical, Reformed, Baptist and English-speaking | The website is introductory; the document is more formal and internal |
-| God | Trinity, divine attributes, sovereignty, creation and judgment | Trinity and the three persons of God | The document gives a fuller doctrine of God |
-| Scripture | 66 books, inspired, without error in the original, sufficient and authoritative | Same basic position | Substantially consistent |
-| Humanity | Image of God, equal dignity, Fall, spiritual death and guilt | Human corruption and condemnation are emphasized under salvation | The document separates human dignity from human depravity more clearly |
-| Jesus Christ | Detailed Christology: deity, humanity, virgin birth, sinlessness, substitution, resurrection, ascension and intercession | Covered under the God section | The document makes Christ's work easier to identify separately |
-| Holy Spirit | Regeneration, illumination, indwelling, assurance, sanctification and empowerment | Included under the God section | The document provides much greater detail |
-| Salvation | Grace alone, faith alone, regeneration, repentance, faith, justification and imputed righteousness | Grace, faith, regeneration and holy living | The document gives a more explicitly Reformed explanation |
-| Election | God calls sinners and grants repentance and faith | Sovereignty is emphasized elsewhere on the website | The document does not fully explain election; it remains somewhat vague |
-| Perseverance | True believers endure and are preserved by God | Included in the broader salvation/sanctification framework | The document is more explicit |
-| Sanctification | Lifelong process through Scripture, fellowship, prayer, self-denial and watchfulness | Same central teaching | Strong agreement |
-| Baptism | Believers' baptism by immersion; does not regenerate | Website identifies the church as Baptist and supports believers' baptism | The document adds immersion and non-regenerative details |
-| Lord's Supper | Memorial of Christ's sacrifice; no change in the elements | Not clearly explained on the main website | Important doctrine found only in the handout |
-| Church | Visible church, covenant membership, ordinances, discipline, elders and deacons | Church as a local gathering under Scripture | The document is much more specific |
-| Church government | Elder-led but congregationally governed | Website explicitly says the same | Strong agreement |
-| Eldership | Elders must be qualified men | Not clearly stated on the summary pages | Major practical detail found in the document |
-| Deacons | Men and women may serve as deacons/deaconesses | Not clearly stated | Additional governance detail |
-| Membership | Requires profession of faith, evidence of regeneration, baptism and doctrinal agreement | Website emphasizes belonging to a local church but gives less detail | The document treats membership as a serious covenant commitment |
-| Church discipline | Private correction, formal discipline and possible excommunication | Discipline is mentioned in the church doctrine | The document explains the process and purpose more fully |
-| Church covenant | Unity, attendance, prayer, family discipleship, evangelism, giving and mutual care | Not presented in comparable detail | Almost entirely additional material |
-| Civil government | Government is ordained by God; obedience is limited by loyalty to Christ | Not clearly addressed | Additional doctrine found in the handout |
-| Evangelism and missions | Gospel proclamation, church evangelism, personal evangelism and missions | Great Commission emphasis is explicit | Same emphasis, but the document gives practical expectations |
-| Spiritual gifts | The Spirit empowers worship, service and mission | Website refers generally to ministry and service | Neither gives a clear continuationist or cessationist position |
-| Marriage and sexuality | Not clearly addressed | Not clearly addressed in the reviewed belief pages | Requires separate clarification |
-| Eschatology | Return of Christ, resurrection, judgment, hell, eternal joy and new creation | Same basic teaching under “The future” | Strong agreement; neither gives a detailed millennium position |
-| Dispute resolution | Members are expected to resolve disputes through biblical processes rather than secular courts | Not clearly addressed | Significant practical policy found only in the constitution |
-| Document status | Dated membership-class handout with constitution | Public website statement | Confirm whether the 2024 handout remains the current governing version |
 
 ## Overall assessment
 
