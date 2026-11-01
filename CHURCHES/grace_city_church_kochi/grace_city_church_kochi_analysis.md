@@ -12,104 +12,105 @@ The attached document is a Membership Class Handout containing teaching on the g
 
 ### 1. Scripture
 
-| Doctrine | What the document teaches | Clarity | What remains unstated |
-|---|---|---|---|
-| Scripture | The 66 books are inspired, without error in the original, authoritative and sufficient | **Clear** | No specific confession or translation position |
+| Doctrine | Website | Document (PDF) | Clarity | Notes |
+|---|---|---|---|---|
+| Scripture | The 66 books are God’s revelation, final authority and sufficient for faith and practice | Every word is inspired through human authors; without error in the original; fully reliable and sufficient | **Clear** | No specific confession or translation position |
 
 ### 2. God
 
-| Doctrine | What the document teaches | Clarity | What remains unstated |
-|---|---|---|---|
-| Trinity | One God in three equal, eternal persons | **Clear** | — |
-| God's attributes | Sovereign, holy, just, wise, merciful and loving | **Clear** | — |
-| Creation | God is the almighty Creator | **Unclear** | Creation method and chronology |
+| Doctrine | Website | Document (PDF) | Clarity | Notes |
+|---|---|---|---|---|
+| Trinity | One Triune God in three equal, eternal persons | One Triune God; each person fully God and equal in divine perfection | **Clear** | — |
+| God's attributes | God is presented as sovereign and glorious | Adds immutability, holiness, justice, wisdom, mercy and love | **Clear** | PDF is more comprehensive |
+| Creation | Not developed in the public summary | God is the almighty Creator | **Unclear** | Creation method and chronology |
+| Literal six-day creation | Not stated | Not stated | **Unclear** | The PDF affirms God as Creator but does not specify six literal days |
 
 ### 3. Humanity and Sin
 
-| Doctrine | What the document teaches | Clarity | What remains unstated |
-|---|---|---|---|
-| Image of God | Men and women possess equal dignity and worth | **Clear** | Application to specific ethical issues |
-| Human purpose | People are made to worship, obey, love and enjoy God | **Clear** | — |
-| The Fall | Human nature is corrupted through the Fall | **Clear** | — |
-| Human inability | People are spiritually dead, guilty and hostile to God | **Clear** | — |
+| Doctrine | Website | Document (PDF) | Clarity | Notes |
+|---|---|---|---|---|
+| Image of God | Not clearly developed | Men and women possess equal dignity and worth | **Clear** | Application to specific ethical issues |
+| Human purpose | Not clearly stated | People are made to worship, obey, love and enjoy God | **Clear** | — |
+| The Fall | Human nature is corrupted through the Fall | Human nature is corrupted through the Fall | **Clear** | Strong agreement |
+| Human inability | People are spiritually dead, guilty and hostile to God | Same, with added language about dignity and accountability | **Clear** | Strong agreement |
 
 ### 4. Christ
 
-| Doctrine | What the document teaches | Clarity | What remains unstated |
-|---|---|---|---|
-| Person of Christ | Jesus is fully God and fully man | **Clear** | — |
-| Work of Christ | Virgin birth, sinless life, substitutionary death, resurrection and ascension | **Clear** | — |
-| Christ's present ministry | Jesus is Lord and intercedes for believers | **Clear** | — |
+| Doctrine | Website | Document (PDF) | Clarity | Notes |
+|---|---|---|---|---|
+| Person of Christ | Jesus is fully God and fully man | Jesus is fully God and fully man | **Clear** | PDF presents Christology as a separate section |
+| Work of Christ | Virgin birth, sinless life, substitutionary death, resurrection and ascension | Same, with redemption by blood and Christ’s Lordship | **Clear** | Strong agreement |
+| Christ's present ministry | Jesus is Lord and intercedes for believers | Jesus is Lord and intercedes for believers | **Clear** | Strong agreement |
 
 ### 5. Holy Spirit
 
-| Doctrine | What the document teaches | Clarity | What remains unstated |
-|---|---|---|---|
-| Holy Spirit | The Spirit regenerates, indwells, assures, sanctifies and empowers believers | **Clear** | — |
-| Spiritual gifts | The Spirit empowers worship, service and mission | **Vague** | No position on continuationism or cessationism |
+| Doctrine | Website | Document (PDF) | Clarity | Notes |
+|---|---|---|---|---|
+| Holy Spirit | The Spirit applies salvation, gives life, indwells believers and produces Christlikeness | Same, with illumination, assurance, church incorporation and empowerment | **Clear** | PDF gives fuller detail |
+| Spiritual gifts | Not clearly defined | The Spirit empowers worship, service and mission | **Vague** | No position on continuationism or cessationism |
 
 ### 6. Salvation
 
-| Doctrine | What the document teaches | Clarity | What remains unstated |
-|---|---|---|---|
-| Grace | Salvation is entirely God's gracious work | **Clear** | — |
-| Justification | Sinners are justified by faith alone and receive Christ's righteousness | **Clear** | — |
-| Regeneration | The Spirit gives new life and produces holiness | **Clear** | — |
-| Repentance and faith | Both are necessary and produced by the regenerating Spirit | **Clear** | — |
-| Election | God calls and grants repentance and faith | **Vague** | Election is not explained systematically |
-| Perseverance | True believers endure and are preserved by God | **Clear** | Relationship between preservation and human perseverance could be clarified |
-| Assurance | The Spirit gives assurance; perseverance evidences genuine faith | **Vague** | How assurance should be evaluated pastorally |
+| Doctrine | Website | Document (PDF) | Clarity | Notes |
+|---|---|---|---|---|
+| Grace | Salvation is entirely by God’s grace | Salvation is entirely God’s gracious work | **Clear** | Strong agreement |
+| Justification | Faith alone is emphasized | Adds imputed righteousness, peace with God, adoption and eternal life | **Clear** | PDF is more detailed |
+| Regeneration | The Spirit gives new life and produces holy fruit | Same, with a fuller explanation of the new birth | **Clear** | Strong agreement |
+| Repentance and faith | Repentance and faith are necessary responses to the gospel | They are sacred duties worked by the regenerating Spirit | **Clear** | PDF is more explicit about their relationship to regeneration |
+| Election | The Reformed identity page affirms God’s sovereignty from election to glorification | God calls sinners and grants repentance and faith | **Vague** | Election is not explained systematically |
+| Perseverance | Sanctification and God’s keeping grace are emphasized | True believers endure and are preserved by God | **Clear** | PDF is more explicit |
+| Assurance | The Spirit gives assurance | Assurance is affirmed, while perseverance evidences genuine faith | **Vague** | Pastoral treatment of assurance could be clarified |
 
 ### 7. Ecclesiology (Church)
 
-| Doctrine | What the document teaches | Clarity | What remains unstated |
-|---|---|---|---|
-| Local church | A congregation of baptised believers united by covenant | **Clear** | — |
-| Membership | Membership requires faith, regeneration, baptism and doctrinal agreement | **Clear** | — |
-| Church government | Elder-led but ultimately governed by the congregation | **Clear** | — |
-| Eldership | Elders must be qualified men | **Clear** | — |
-| Deacons | Both men and women may serve as deacons/deaconesses | **Clear** | Broader ministry roles for women |
-| Church discipline | Includes correction, formal discipline and possible excommunication | **Clear** | Detailed safeguards and appeal procedures |
-| Church unity | Fellowship is limited to churches faithful to the gospel | **Vague** | Boundaries of cooperation are not defined |
+| Doctrine | Website | Document (PDF) | Clarity | Notes |
+|---|---|---|---|---|
+| Local church | Christians should associate into particular churches; the church is Scripture-shaped | A congregation of baptised believers united by covenant | **Clear** | PDF gives fuller detail |
+| Membership | Belonging to a local church is emphasized | Requires faith, regeneration, baptism and doctrinal agreement | **Clear** | Formal membership requirements appear mainly in the PDF |
+| Church government | Elder-led and congregationally ruled | Same, with voting, elections and budget procedures | **Clear** | Strong agreement; PDF gives mechanisms |
+| Eldership | Not clearly specified on the summary pages | Elders must be qualified men | **Clear** | Major practical detail found in the PDF |
+| Deacons | Not clearly stated | Both men and women may serve as deacons/deaconesses | **Clear** | Broader ministry roles for women remain undefined |
+| Church discipline | Faithful exercise of discipline is a church duty | Includes private correction, formal discipline and possible excommunication | **Clear** | PDF explains the process and aims |
+| Church unity | Church life is centred on gospel fellowship | Fellowship is limited to churches faithful to the gospel | **Vague** | Boundaries of cooperation are not defined |
 
-### 8. Christian Life and Sanctification
+### 8. Baptism and Communion
 
-| Doctrine | What the document teaches | Clarity | What remains unstated |
-|---|---|---|---|
-| Sanctification | Holiness is progressive and lifelong | **Clear** | — |
-| Means of grace | Scripture, fellowship, self-examination, self-denial, watchfulness and prayer | **Clear** | — |
-| Evangelism | Believers and the church must proclaim Christ and make disciples | **Clear** | — |
-| Giving and service | Members should support the church and serve according to their gifts | **Clear** | — |
-| Marriage and sexuality | Not addressed in detail | **Unclear** | Ethical and pastoral position |
+| Doctrine | Website | Document (PDF) | Clarity | Notes |
+|---|---|---|---|---|
+| Baptism | The church identifies as Baptist and affirms believers’ baptism | Believers’ baptism by immersion; baptism does not regenerate | **Clear** | PDF adds the mode and meaning |
+| Lord's Supper | Communion is mentioned as part of church worship | A remembrance of Christ’s sacrifice; the elements do not change | **Clear** | Detailed doctrine appears mainly in the PDF |
+| Communion participation | Participation is not explained in detail | Preceded by self-examination; blessings received by faith | **Clear** | Whether communion is restricted to members is unclear |
 
-### 9. Baptism and Communion
+### 9. Christian Life and Sanctification
 
-| Doctrine | What the document teaches | Clarity | What remains unstated |
-|---|---|---|---|
-| Baptism | Believers' baptism by immersion; baptism does not regenerate | **Clear** | — |
-| Lord's Supper | A remembrance of Christ's sacrifice; the elements do not change | **Clear** | Detailed doctrine of Christ's presence |
-| Communion participation | Preceded by self-examination; blessings received by faith | **Clear** | Whether communion is restricted to members |
+| Doctrine | Website | Document (PDF) | Clarity | Notes |
+|---|---|---|---|---|
+| Sanctification | Holiness is progressive and lifelong | Same, with practical means listed | **Clear** | Strong agreement |
+| Means of grace | God’s Word is central to growth | Scripture, fellowship, self-examination, self-denial, watchfulness and prayer | **Clear** | PDF is more practical |
+| Evangelism | Great Commission work is primarily fulfilled through the local church | Corporate evangelism, personal proclamation, discipleship and missions | **Clear** | PDF gives practical expectations |
+| Giving and service | Ministry and service are encouraged | Members should support the church and serve according to their gifts | **Clear** | PDF is more explicit |
+| Marriage and sexuality | Not addressed in detail on the reviewed pages | Not addressed in detail | **Unclear** | Ethical and pastoral position requires clarification |
 
 ### 10. Civil Government and Disputes
 
-| Doctrine | What the document teaches | Clarity | What remains unstated |
-|---|---|---|---|
-| Civil government | Government is ordained by God and should generally be obeyed | **Clear** | Detailed political or social ethics |
-| Civil disobedience | Obedience to God takes priority when authorities oppose Christ | **Clear** | Practical examples |
-| Internal disputes | Members should resolve disputes through biblical processes rather than secular courts | **Clear** | Exceptions for criminal matters, abuse or safeguarding |
-| Church authority | The congregation and elders share defined authority | **Clear** | Exact limits of elder authority |
+| Doctrine | Website | Document (PDF) | Clarity | Notes |
+|---|---|---|---|---|
+| Civil government | Not clearly addressed | Government is ordained by God and should generally be obeyed | **Clear** | Detailed political or social ethics |
+| Civil disobedience | Not clearly addressed | Obedience to God takes priority when authorities oppose Christ | **Clear** | Practical examples |
+| Internal disputes | Not clearly addressed | Members should resolve disputes through biblical processes rather than secular courts | **Clear** | Exceptions for criminal matters, abuse or safeguarding |
+| Church authority | Elder-led, congregationally ruled | The congregation and elders share defined authority | **Clear** | Exact limits of elder authority require careful reading of the constitution |
 
 ### 11. Eschatology
 
-| Doctrine | What the document teaches | Clarity | What remains unstated |
-|---|---|---|---|
-| Second coming | Jesus will return in glory | **Clear** | — |
-| Resurrection | The dead will be raised | **Clear** | — |
-| Final judgment | Christ will judge the world righteously | **Clear** | — |
-| Eternal punishment | The wicked will face eternal punishment in hell | **Clear** | — |
-| Eternal life | The righteous will enjoy eternal fellowship with God | **Clear** | — |
-| New creation | God will make all things new | **Clear** | — |
-| Millennium and tribulation | No detailed position is given | **Unclear** | Premillennial, amillennial or postmillennial view |
+| Doctrine | Website | Document (PDF) | Clarity | Notes |
+|---|---|---|---|---|
+| Second coming | Jesus will return in glory | Jesus will return in glory | **Clear** | Strong agreement |
+| Resurrection | The dead will be raised | The dead will be raised | **Clear** | Strong agreement |
+| Final judgment | Christ will judge the world righteously | Christ will judge the world righteously | **Clear** | Strong agreement |
+| Eternal punishment | The wicked will face eternal punishment in hell | The wicked will face eternal punishment in hell | **Clear** | Strong agreement |
+| Eternal life | The righteous will enjoy eternal fellowship with God | The righteous will enjoy eternal fellowship with God | **Clear** | Strong agreement |
+| New creation | God will make all things new | God will make all things new | **Clear** | Strong agreement |
+| Millennium and tribulation | No detailed position is given | No detailed position is given | **Unclear** | Premillennial, amillennial or postmillennial view |
 
 ## Notes: document versus website
 
