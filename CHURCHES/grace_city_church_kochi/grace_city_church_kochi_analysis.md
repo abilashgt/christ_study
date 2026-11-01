@@ -15,6 +15,7 @@ The attached document is a Membership Class Handout containing teaching on the g
 | Doctrine | Website | Document (PDF) | Clarity | Notes |
 |---|---|---|---|---|
 | Scripture | The 66 books are God’s revelation, final authority and sufficient for faith and practice | Every word is inspired through human authors; without error in the original; fully reliable and sufficient | **Clear** | No specific confession or translation position |
+| Sufficiency of Scripture | The Bible is sufficient for all matters of belief and practice | The Bible alone is the final authority and is always sufficient for belief and practice | **Clear** | Explicitly affirmed in both sources |
 
 ### 2. God
 
@@ -85,6 +86,7 @@ The attached document is a Membership Class Handout containing teaching on the g
 | Doctrine | Website | Document (PDF) | Clarity | Notes |
 |---|---|---|---|---|
 | Local church | Christians should associate into particular churches; the church is Scripture-shaped | A congregation of baptised believers united by covenant | **Clear** | PDF gives fuller detail |
+| Sufficiency of the church | The local church is presented as the primary context for evangelism and discipleship | The church is responsible for worship, teaching, evangelism, missions, ordinances, fellowship, service and discipline | **Vague** | The church’s central role is clear, but its sufficiency as the God-ordained institution for Christian life and mission is not explicitly defined |
 | Membership | Belonging to a local church is emphasized | Requires faith, regeneration, baptism and doctrinal agreement | **Clear** | Formal membership requirements appear mainly in the PDF |
 | Church governance and authority | Elder-led and congregationally ruled | Elders oversee ministry, while the assembled congregation retains final earthly authority through votes on officers, membership and other matters | **Clear** | Best described as elder-led congregationalism, not elder rule |
 | Eldership | Not clearly specified on the summary pages | Elders must be qualified men | **Clear** | Major practical detail found in the PDF |
@@ -134,6 +136,7 @@ The public website presents the church's identity; the handout shows how that id
 | Election | **Vague** | God’s sovereignty from election to glorification is affirmed elsewhere | God calls sinners and grants repentance and faith | How election relates to human responsibility and the free offer of the gospel |
 | Assurance | **Vague** | The Spirit’s work and sanctification are emphasized | Assurance is affirmed, while perseverance evidences genuine faith | How believers should gain and evaluate assurance pastorally |
 | Church unity | **Vague** | Gospel-centred church fellowship is emphasized | Fellowship is limited to churches faithful to the gospel | Which churches qualify for cooperation and fellowship |
+| Sufficiency of the church | **Vague** | The local church is described as central to evangelism and discipleship | The church is given comprehensive responsibilities for worship, teaching, mission, fellowship and discipline | Whether the church is considered sufficient for carrying out Christ’s mission and discipling believers |
 | Marriage and sexuality | **Unclear** | Not addressed in the reviewed pages | Not addressed in detail | The church’s ethical and pastoral position |
 | Rapture | **Unclear** | Not stated | Not stated | Whether the rapture is pre-, mid- or post-tribulational, or how it relates to Christ’s return |
 | Millennium and tribulation | **Unclear** | No detailed position is given | No detailed position is given | Premillennial, amillennial or postmillennial position |
