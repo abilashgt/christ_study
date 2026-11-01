@@ -35,6 +35,7 @@ The attached document is a Membership Class Handout containing teaching on the g
 | The Fall        | Human nature is corrupted through the Fall                     | Human nature is corrupted through the Fall                                                         | **Clear** | Strong agreement                                                                                                     |
 | Human inability | People are spiritually dead, guilty and hostile to God         | Same, with added language about dignity and accountability                                         | **Clear** | Strong agreement                                                                                                     |
 | Total depravity | People are without spiritual life and under God’s condemnation | Every aspect of human nature is corrupted; sinners are spiritually dead, guilty and hostile to God | **Clear** | Affirmed in the classic Reformed sense: sin affects the whole person, not that every person is as sinful as possible |
+| Marriage and sexuality | Not addressed in detail on the reviewed pages | Not addressed in detail | **Unclear** | Ethical and pastoral position as it relates to humanity and sin |
 
 ### 4. Christ
 
@@ -104,13 +105,12 @@ The attached document is a Membership Class Handout containing teaching on the g
 
 ### 11. Christian Life and Sanctification
 
-| Doctrine | Website | Document (PDF) | Clarity | Notes |
-|---|---|---|---|---|
-| Sanctification | Holiness is progressive and lifelong | Same, with practical means listed | **Clear** | Strong agreement |
-| Means of grace | God’s Word is central to growth | Scripture, fellowship, self-examination, self-denial, watchfulness and prayer | **Clear** | PDF is more practical |
-| Evangelism | Great Commission work is primarily fulfilled through the local church | Corporate evangelism, personal proclamation, discipleship and missions | **Clear** | PDF gives practical expectations |
-| Giving and service | Ministry and service are encouraged | Members should support the church and serve according to their gifts | **Clear** | PDF is more explicit |
-| Marriage and sexuality | Not addressed in detail on the reviewed pages | Not addressed in detail | **Unclear** | Ethical and pastoral position requires clarification |
+| Doctrine               | Website                                                               | Document (PDF)                                                                | Clarity     | Notes                                                |
+| ---------------------- | --------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------- | ---------------------------------------------------- |
+| Sanctification         | Holiness is progressive and lifelong                                  | Same, with practical means listed                                             | **Clear**   | Strong agreement                                     |
+| Means of grace         | God’s Word is central to growth                                       | Scripture, fellowship, self-examination, self-denial, watchfulness and prayer | **Clear**   | PDF is more practical                                |
+| Evangelism             | Great Commission work is primarily fulfilled through the local church | Corporate evangelism, personal proclamation, discipleship and missions        | **Clear**   | PDF gives practical expectations                     |
+| Giving and service     | Ministry and service are encouraged                                   | Members should support the church and serve according to their gifts          | **Clear**   | PDF is more explicit                                 |
 
 ### 12. Civil Government and Disputes
 
@@ -132,11 +132,11 @@ The public website presents the church's identity; the handout shows how that id
 |---|---|---|---|---|
 | Creation | **Unclear** | Not developed in the public summary | Affirms God as Creator but does not specify the method or chronology | Whether creation is understood as six literal days, an old-earth view, or another position |
 | Literal six-day creation | **Unclear** | Not stated | Not stated | Whether the six creation days are understood as literal 24-hour days |
+| Marriage and sexuality | **Unclear** | Not addressed in the reviewed pages | Not addressed in detail | The church’s ethical and pastoral position as it relates to humanity and sin |
 | Spiritual gifts | **Vague** | Not clearly defined | The Spirit empowers worship, service and mission | Whether the church is continuationist, cessationist, or holds another position |
 | Election | **Vague** | God’s sovereignty from election to glorification is affirmed elsewhere | God calls sinners and grants repentance and faith | How election relates to human responsibility and the free offer of the gospel |
 | Assurance | **Vague** | The Spirit’s work and sanctification are emphasized | Assurance is affirmed, while perseverance evidences genuine faith | How believers should gain and evaluate assurance pastorally |
 | Church unity | **Vague** | Gospel-centred church fellowship is emphasized | Fellowship is limited to churches faithful to the gospel | Which churches qualify for cooperation and fellowship |
 | Sufficiency of the church | **Vague** | The local church is described as central to evangelism and discipleship | The church is given comprehensive responsibilities for worship, teaching, mission, fellowship and discipline | Whether the church is considered sufficient for carrying out Christ’s mission and discipling believers |
-| Marriage and sexuality | **Unclear** | Not addressed in the reviewed pages | Not addressed in detail | The church’s ethical and pastoral position |
 | Rapture | **Unclear** | Not stated | Not stated | Whether the rapture is pre-, mid- or post-tribulational, or how it relates to Christ’s return |
 | Millennium and tribulation | **Unclear** | No detailed position is given | No detailed position is given | Premillennial, amillennial or postmillennial position |
