@@ -62,19 +62,37 @@ The attached document is a Membership Class Handout containing teaching on the g
 | Perseverance | Sanctification and God’s keeping grace are emphasized | True believers endure and are preserved by God | **Clear** | PDF is more explicit |
 | Assurance | The Spirit gives assurance | Assurance is affirmed, while perseverance evidences genuine faith | **Vague** | Pastoral treatment of assurance could be clarified |
 
-### 7. Ecclesiology (Church)
+### 7. Heaven, Hell and Judgment
+
+| Doctrine | Website | Document (PDF) | Clarity | Notes |
+|---|---|---|---|---|
+| Final judgment | Christ will judge the world righteously | Christ will judge the world righteously | **Clear** | Strong agreement |
+| Eternal punishment | The wicked will face eternal punishment in hell | The wicked will face eternal punishment in hell | **Clear** | Strong agreement |
+| Eternal life | The righteous will enjoy eternal fellowship with God | The righteous will enjoy eternal fellowship with God | **Clear** | Strong agreement |
+
+### 8. Eschatology
+
+| Doctrine                   | Website                       | Document (PDF)                | Clarity     | Notes                                             |
+| -------------------------- | ----------------------------- | ----------------------------- | ----------- | ------------------------------------------------- |
+| Second coming              | Jesus will return in glory    | Jesus will return in glory    | **Clear**   | Strong agreement                                  |
+| Resurrection               | The dead will be raised       | The dead will be raised       | **Clear**   | Strong agreement                                  |
+| New creation               | God will make all things new  | God will make all things new  | **Clear**   | Strong agreement                                  |
+| Rapture                    | Not stated                    | Not stated                    | **Unclear** | No position on whether the rapture is pre-, mid- or post-tribulational |
+| Millennium and tribulation | No detailed position is given | No detailed position is given | **Unclear** | Premillennial, amillennial or postmillennial view |
+
+### 9. Ecclesiology (Church)
 
 | Doctrine | Website | Document (PDF) | Clarity | Notes |
 |---|---|---|---|---|
 | Local church | Christians should associate into particular churches; the church is Scripture-shaped | A congregation of baptised believers united by covenant | **Clear** | PDF gives fuller detail |
 | Membership | Belonging to a local church is emphasized | Requires faith, regeneration, baptism and doctrinal agreement | **Clear** | Formal membership requirements appear mainly in the PDF |
-| Church government | Elder-led and congregationally ruled | Same, with voting, elections and budget procedures | **Clear** | Strong agreement; PDF gives mechanisms |
+| Church governance and authority | Elder-led and congregationally ruled | Elders oversee ministry, while the assembled congregation retains final earthly authority through votes on officers, membership and other matters | **Clear** | Best described as elder-led congregationalism, not elder rule |
 | Eldership | Not clearly specified on the summary pages | Elders must be qualified men | **Clear** | Major practical detail found in the PDF |
 | Deacons | Not clearly stated | Both men and women may serve as deacons/deaconesses | **Clear** | Broader ministry roles for women remain undefined |
 | Church discipline | Faithful exercise of discipline is a church duty | Includes private correction, formal discipline and possible excommunication | **Clear** | PDF explains the process and aims |
 | Church unity | Church life is centred on gospel fellowship | Fellowship is limited to churches faithful to the gospel | **Vague** | Boundaries of cooperation are not defined |
 
-### 8. Baptism and Communion
+### 10. Baptism and Communion
 
 | Doctrine | Website | Document (PDF) | Clarity | Notes |
 |---|---|---|---|---|
@@ -82,7 +100,7 @@ The attached document is a Membership Class Handout containing teaching on the g
 | Lord's Supper | Communion is mentioned as part of church worship | A remembrance of Christ’s sacrifice; the elements do not change | **Clear** | Detailed doctrine appears mainly in the PDF |
 | Communion participation | Participation is not explained in detail | Preceded by self-examination; blessings received by faith | **Clear** | Whether communion is restricted to members is unclear |
 
-### 9. Christian Life and Sanctification
+### 11. Christian Life and Sanctification
 
 | Doctrine | Website | Document (PDF) | Clarity | Notes |
 |---|---|---|---|---|
@@ -92,29 +110,30 @@ The attached document is a Membership Class Handout containing teaching on the g
 | Giving and service | Ministry and service are encouraged | Members should support the church and serve according to their gifts | **Clear** | PDF is more explicit |
 | Marriage and sexuality | Not addressed in detail on the reviewed pages | Not addressed in detail | **Unclear** | Ethical and pastoral position requires clarification |
 
-### 10. Civil Government and Disputes
+### 12. Civil Government and Disputes
 
-| Doctrine | Website | Document (PDF) | Clarity | Notes |
-|---|---|---|---|---|
-| Civil government | Not clearly addressed | Government is ordained by God and should generally be obeyed | **Clear** | Detailed political or social ethics |
-| Civil disobedience | Not clearly addressed | Obedience to God takes priority when authorities oppose Christ | **Clear** | Practical examples |
-| Internal disputes | Not clearly addressed | Members should resolve disputes through biblical processes rather than secular courts | **Clear** | Exceptions for criminal matters, abuse or safeguarding |
-| Church authority | Elder-led, congregationally ruled | The congregation and elders share defined authority | **Clear** | Exact limits of elder authority require careful reading of the constitution |
-
-### 11. Eschatology
-
-| Doctrine | Website | Document (PDF) | Clarity | Notes |
-|---|---|---|---|---|
-| Second coming | Jesus will return in glory | Jesus will return in glory | **Clear** | Strong agreement |
-| Resurrection | The dead will be raised | The dead will be raised | **Clear** | Strong agreement |
-| Final judgment | Christ will judge the world righteously | Christ will judge the world righteously | **Clear** | Strong agreement |
-| Eternal punishment | The wicked will face eternal punishment in hell | The wicked will face eternal punishment in hell | **Clear** | Strong agreement |
-| Eternal life | The righteous will enjoy eternal fellowship with God | The righteous will enjoy eternal fellowship with God | **Clear** | Strong agreement |
-| New creation | God will make all things new | God will make all things new | **Clear** | Strong agreement |
-| Millennium and tribulation | No detailed position is given | No detailed position is given | **Unclear** | Premillennial, amillennial or postmillennial view |
+| Doctrine           | Website                           | Document (PDF)                                                                        | Clarity   | Notes                                                                       |
+| ------------------ | --------------------------------- | ------------------------------------------------------------------------------------- | --------- | --------------------------------------------------------------------------- |
+| Civil government   | Not clearly addressed             | Government is ordained by God and should generally be obeyed                          | **Clear** | Detailed political or social ethics                                         |
+| Civil disobedience | Not clearly addressed             | Obedience to God takes priority when authorities oppose Christ                        | **Clear** | Practical examples                                                          |
+| Internal disputes  | Not clearly addressed             | Members should resolve disputes through biblical processes rather than secular courts | **Clear** | Exceptions for criminal matters, abuse or safeguarding                      |
 
 ## Overall assessment
 
 There is no major doctrinal contradiction between the document and the website. The website's six belief categories substantially match the doctrinal section of the handout. The handout reveals important practical positions that the website does not prominently state, especially believers' baptism by immersion, male eldership, women deacons, church discipline, membership obligations, civil government, and internal dispute resolution.
 
 The public website presents the church's identity; the handout shows how that identity is applied in membership and governance.
+
+## Unclear or vague doctrines
+
+| Doctrine | Clarity | Website | Document (PDF) | What needs clarification |
+|---|---|---|---|---|
+| Creation | **Unclear** | Not developed in the public summary | Affirms God as Creator but does not specify the method or chronology | Whether creation is understood as six literal days, an old-earth view, or another position |
+| Literal six-day creation | **Unclear** | Not stated | Not stated | Whether the six creation days are understood as literal 24-hour days |
+| Spiritual gifts | **Vague** | Not clearly defined | The Spirit empowers worship, service and mission | Whether the church is continuationist, cessationist, or holds another position |
+| Election | **Vague** | God’s sovereignty from election to glorification is affirmed elsewhere | God calls sinners and grants repentance and faith | How election relates to human responsibility and the free offer of the gospel |
+| Assurance | **Vague** | The Spirit’s work and sanctification are emphasized | Assurance is affirmed, while perseverance evidences genuine faith | How believers should gain and evaluate assurance pastorally |
+| Church unity | **Vague** | Gospel-centred church fellowship is emphasized | Fellowship is limited to churches faithful to the gospel | Which churches qualify for cooperation and fellowship |
+| Marriage and sexuality | **Unclear** | Not addressed in the reviewed pages | Not addressed in detail | The church’s ethical and pastoral position |
+| Rapture | **Unclear** | Not stated | Not stated | Whether the rapture is pre-, mid- or post-tribulational, or how it relates to Christ’s return |
+| Millennium and tribulation | **Unclear** | No detailed position is given | No detailed position is given | Premillennial, amillennial or postmillennial position |
