@@ -19,6 +19,7 @@
 | [Immanuel International Church](https://www.iicindia.org/) | New Delhi | No | Reformed Presbyterian; subscribes to the Westminster Standards and the Three Forms of Unity, with elder-led Presbyterian government. [Doctrine and leadership](https://www.iicindia.org/) | Rev. James Khongsai |
 | [Presbyterian Church in India (Reformed) — Delhi PC](https://www.pcireformed.org/) | Delhi | No | Reformed Presbyterian/Calvinist; affirms Scripture’s authority, salvation by grace through faith alone, Presbyterian polity, teaching elders, ruling elders, and deacons. [What we believe](https://www.pcireformed.org/what-we-believe/) | Pastor G. Goukhansiam Guite [Pastor listing](https://www.pcireformed.org/pastors/) |
 | [New Covenant Church](https://newcovenantdelhi.org/) | Delhi | Yes | Calvinistic Baptist; affirms the five doctrines of grace and believer’s baptism by immersion. [Beliefs and leadership](https://newcovenantdelhi.org/about/#our-values) | Navin Thomas |
+| [Cornerstone Baptist Church](https://www.cornerstonebaptist.in/) | Chennai | Yes | Reformed Baptist; subscribes to the 1689 London Baptist Confession, teaches total depravity, God’s sovereignty in salvation, substitutionary atonement, and perseverance. [Statement of faith and pastor](https://www.cornerstonebaptist.in/aboutus.php) | Joshua Edwin |
 | [Grace Reformed Church](https://grcchennai.in/) | Chennai | Yes | Reformed Baptist; formally accepts the 1689 Confession of Faith. [Church statement](https://grcchennai.in/) | M. James [Contact](https://grcchennai.in/?page_id=52) |
 | [Hope Reformed Baptist Church](https://hope-rb-church.in/) | Bangalore | Yes | Confessional Reformed Baptist church with a published faith section. [Church](https://hope-rb-church.in/) | Reuben T. [Elders](https://hope-rb-church.in/officers/) |
 | [Gospel Life Church](https://www.gospellife.in/) | Hyderabad | Yes | Explicitly Reformed, evangelical, and Baptist; its website specifically distinguishes the church from Pentecostal churches and publishes detailed beliefs. [Statement of faith](https://www.gospellife.in/what-we-believe) | Pastor name not clearly listed publicly |
@@ -34,7 +35,8 @@ The closest theological matches to Grace City Church appear to be:
 4. Presbyterian Church in India (Reformed) — Delhi PC
 5. Pune Reformed Baptist Church
 6. Grace Reformed Baptist Church, Bangalore
-7. Grace Reformed Church, Chennai
+7. Cornerstone Baptist Church, Chennai
+8. Grace Reformed Church, Chennai
 
 ## Excluded from this list
 
