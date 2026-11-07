@@ -16,6 +16,9 @@
 | [Pune Reformed Baptist Church](https://prbc.in/) | Pune | Yes | Reformed Baptist; 1689 Confession, Scripture authority, sovereign grace, Trinity, substitutionary atonement, and believer’s baptism. [Statement of faith](https://prbc.in/statement-of-faith/) | Mangesh Rayarum |
 | [Grace Reformed Baptist Church](https://grbcindia.com/) | Bangalore | Yes | Reformed Baptist; detailed doctrine based on the 1689 Baptist Confession. [Doctrine and leadership](https://grbcindia.com/about/) | Murali Ameresan |
 | [Anugraha Reformed Presbyterian Church](https://anugraharpc.org/) | Bangalore | No | Reformed Presbyterian; the Westminster Standards are its subordinate doctrinal standard. [Beliefs](https://anugraharpc.org/anugraha-rp-church-beliefs/) | Pastor name not visible on the accessible website |
+| [Covenant Reformed Church](https://www.crcblr.com/) | Doddakannelli, South-East Bengaluru | No | Reformed Presbyterian; adheres to the Westminster Confession of Faith and Catechisms, with plurality of elders. [Faith and leadership](https://www.crcblr.com/) | Ps. George Skariah |
+| [New City Fellowship](https://newcityfellowship.in/) | St. Mark’s Road, Central Bengaluru | No | Reformed Presbyterian; affirms the Westminster Confession, Larger Catechism, and Shorter Catechism, with Presbyterian government and a plurality of elders. [Statement of faith](https://newcityfellowship.in/statement-of-faith/) | Philip Ewan Yalla (Lead Pastor); John Rakshith Prabhakar (Minister of Church Planting) [Leadership](https://newcityfellowship.in/leadership-staff/) |
+| [Redeemer Church](https://redeemerbangalore.com/) | Kothanur/Narayanapura, Bengaluru | No | Reformed Presbyterian; affirms the Westminster Standards, elder government, and accountability within the Presbyterian Church in India – Reformed. [Statement of faith and leadership](https://redeemerbangalore.com/statement-of-faith/) | Local leadership is shared with New City Fellowship’s elders; no separate local pastor listed |
 | [Immanuel International Church](https://www.iicindia.org/) | New Delhi | No | Reformed Presbyterian; subscribes to the Westminster Standards and the Three Forms of Unity, with elder-led Presbyterian government. [Doctrine and leadership](https://www.iicindia.org/) | Rev. James Khongsai |
 | [Presbyterian Church in India (Reformed) — Delhi PC](https://www.pcireformed.org/) | Delhi | No | Reformed Presbyterian/Calvinist; affirms Scripture’s authority, salvation by grace through faith alone, Presbyterian polity, teaching elders, ruling elders, and deacons. [What we believe](https://www.pcireformed.org/what-we-believe/) | Pastor G. Goukhansiam Guite [Pastor listing](https://www.pcireformed.org/pastors/) |
 | [New Covenant Church](https://newcovenantdelhi.org/) | Delhi | Yes | Calvinistic Baptist; affirms the five doctrines of grace and believer’s baptism by immersion. [Beliefs and leadership](https://newcovenantdelhi.org/about/#our-values) | Navin Thomas |
@@ -31,13 +34,20 @@ The closest theological matches to Grace City Church appear to be:
 
 1. Evangelical Baptist Church, Madurai
 2. Anugraha Reformed Presbyterian Church, Bangalore
-3. Immanuel International Church, New Delhi
-4. Presbyterian Church in India (Reformed) — Delhi PC
-5. Pune Reformed Baptist Church
-6. Grace Reformed Baptist Church, Bangalore
-7. Cornerstone Baptist Church, Chennai
-8. Grace Reformed Church, Chennai
+3. Covenant Reformed Church, South-East Bengaluru
+4. New City Fellowship, Central Bengaluru
+5. Redeemer Church, Kothanur/Narayanapura
+6. Immanuel International Church, New Delhi
+7. Presbyterian Church in India (Reformed) — Delhi PC
+8. Pune Reformed Baptist Church
+9. Grace Reformed Baptist Church, Bangalore
+10. Cornerstone Baptist Church, Chennai
+11. Grace Reformed Church, Chennai
 
 ## Excluded from this list
 
 Churches were excluded when their public website was vague about doctrine or identified them with Pentecostal, charismatic, Spirit-filled, full-gospel, or apostolic theology.
+
+### Possible churches — official doctrine not yet verified
+
+- Bangalore Baptist Church / Ebenezer Baptist Church — Commissariat Road, Bengaluru: Baptist? Yes. Public records identify Pastor Daniel A. Bhasme, but no official church website or clear statement of faith was located, so it is not included in the main table.
