@@ -49,6 +49,10 @@ The closest theological matches to Grace City Church appear to be:
 
 Churches were excluded when their public website was vague about doctrine or identified them with Pentecostal, charismatic, Spirit-filled, full-gospel, or apostolic theology.
 
-### Possible churches — official doctrine not yet verified
+- [New City Church Mumbai](https://www.newcitymumbai.com/) — Mumbai, Maharashtra: Baptist? Not formally identified as Baptist, although it was planted out of Bombay Baptist Church. Its official beliefs affirm baptism and fullness of the Holy Spirit, the continuing exercise of spiritual gifts, and a five-fold ministry including apostles and prophets. Pastor/lead planter: Anand Mahadevan; assistant pastor: Felix Carey Pakki. Excluded because it does not meet the non-Pentecostal/non-charismatic filter. [Official beliefs and team](https://www.newcitymumbai.com/looking-for-a-church/) | [Parent network](https://www.newcitymumbai.com/about/)
+
+### Possible matches — classification or fit not fully established
 
 - Bangalore Baptist Church / Ebenezer Baptist Church — Commissariat Road, Bengaluru: Baptist? Yes. Public records identify Pastor Daniel A. Bhasme, but no official church website or clear statement of faith was located, so it is not included in the main table.
+- [Life Hinglish Church](https://lifehinglishchurch.in/) — Gurugram, Haryana: possible evangelical/Reformed-leaning candidate. It has a clear statement of faith, affirms predestination and salvation by grace alone, and practices believer’s baptism by immersion. However, it does not explicitly identify as Baptist or Reformed Baptist, and it affirms spiritual gifts. Pastor: Gladwin Joseph. [Beliefs](https://lifehinglishchurch.in/our-beliefs/) | [Pastor](https://lifehinglishchurch.in/our-pastor/)
+- [Satya Vachan Church](https://satyavachanchurch.in/) — Lucknow, Uttar Pradesh: probable Baptist and evangelical/gospel-centered church. A public directory labels it Baptist, and independent ministry sources identify Harshit Singh as its preaching/lead pastor. However, the church’s own statement of faith could not be verified because the website returned a 403 error. Baptist? Probable, not officially confirmed. [Directory listing](https://yappe.in/uttar-pradesh/lucknow/satya-vachan-church/1937207) | [Pastor reference](https://uploads.crossway.org/extra/w25-factsheet-reports.pdf)
