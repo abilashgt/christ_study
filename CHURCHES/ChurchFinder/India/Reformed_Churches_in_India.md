@@ -28,6 +28,9 @@
 | [Hope Reformed Baptist Church](https://hope-rb-church.in/) | Bangalore | Yes | Confessional Reformed Baptist church with a published faith section. [Church](https://hope-rb-church.in/) | Reuben T. [Elders](https://hope-rb-church.in/officers/) |
 | [Gospel Life Church](https://www.gospellife.in/) | Hyderabad | Yes | Explicitly Reformed, evangelical, and Baptist; its website specifically distinguishes the church from Pentecostal churches and publishes detailed beliefs. [Statement of faith](https://www.gospellife.in/what-we-believe) | Pastor name not clearly listed publicly |
 | [Covenant Evangelical Reformed Church](https://reformedchurch.in/) | Kolkata | No | Reformed; subscribes to the Belgic Confession, Heidelberg Catechism, and Canons of Dort; teaches sovereign grace. [Statement of faith](https://reformedchurch.in/statement-of-faith/) | Pastor name not publicly listed |
+| [Gospel Community Church](https://gcchurch.in/) | Imphal, Manipur | Yes* | Reformed/Calvinistic evangelical with a detailed statement covering divine election, regeneration, justification by faith alone, perseverance, believer’s baptism by immersion, and local church government with pastors/elders and deacons. No Pentecostal or charismatic teaching was found in the published statement. [What we believe](https://gcchurch.in/mn/what-we-believe/) | Boboy Nameirakpam Singh [Pastor reflection](https://gcchurch.in/a-local-pastors-reflection-on-the-conflict-in-manipur/) |
+
+\* The church does not explicitly use the word “Baptist” on its website; “Yes” refers to its believer’s baptism by immersion and Baptist-leaning local-church practice.
 
 ## Closest matches
 
