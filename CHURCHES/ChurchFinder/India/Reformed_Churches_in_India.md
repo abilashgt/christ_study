@@ -30,6 +30,7 @@
 | [Covenant Evangelical Reformed Church](https://reformedchurch.in/) | Kolkata | No | Not stated | Reformed; subscribes to the Belgic Confession, Heidelberg Catechism, and Canons of Dort; teaches sovereign grace. [Statement of faith](https://reformedchurch.in/statement-of-faith/) | Pastor name not publicly listed |
 | [Gospel Community Church](https://gcchurch.in/) | Imphal, Manipur | Yes* | Not stated | Reformed/Calvinistic evangelical with a detailed statement covering divine election, regeneration, justification by faith alone, perseverance, believer’s baptism by immersion, and local church government with pastors/elders and deacons. No Pentecostal or charismatic teaching was found in the published statement. [What we believe](https://gcchurch.in/mn/what-we-believe/) | Boboy Nameirakpam Singh [Pastor reflection](https://gcchurch.in/a-local-pastors-reflection-on-the-conflict-in-manipur/) |
 | [Redemption Hill Church](https://redemptionhill.in/) | Thiruvananthapuram, Kerala | No | Continuationist (older statement) | Reformed Presbyterian; current website affirms Westminster Standards, conservative Reformed doctrine, elder-led government, and expository preaching. [Current beliefs](https://redemptionhill.in/beliefs/) | Michael Teddy (main preaching pastor); Ashok Mohanakumar (elder) [Leadership](https://redemptionhill.in/officers/) |
+| [Trivandrum Bible Fellowship](https://tbfchurch.in/) | Thiruvananthapuram, Kerala | No | Spiritual gifts affirmed; specific sign gifts not stated | Independent English assembly in the Brethren pattern; publishes a clear statement affirming biblical authority, the Trinity, substitutionary atonement, salvation by grace alone through faith alone, believer’s baptism by immersion, and the Lord’s Supper. Its worship page also describes Spirit-led participation and gifts of service. [Our faith](https://tbfchurch.in/faith/) | Elders/contact: Br. Georgey Varghese (Santhosh), Br. R. S. Mishra, and Br. Jose Daniel [Contact](https://tbfchurch.in/contact-us/) |
 
 \* The church does not explicitly use the word “Baptist” on its website; “Yes” refers to its believer’s baptism by immersion and Baptist-leaning local-church practice.
 
@@ -54,6 +55,7 @@ The closest theological matches to Grace City Church appear to be:
 9. Grace Reformed Baptist Church, Bangalore
 10. Cornerstone Baptist Church, Chennai
 11. Grace Reformed Church, Chennai
+12. Trivandrum Bible Fellowship, Trivandrum
 
 ## Excluded from this list
 
