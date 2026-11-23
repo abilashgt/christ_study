@@ -1,4 +1,4 @@
-# Joseph Prince — A Reformed Biblical Warning on “The Holy Spirit Never Convicts You of Your Sins”
+# Joseph Prince — A Biblical Warning on “The Holy Spirit Never Convicts You of Your Sins”
 
 ## Executive summary
 
@@ -8,7 +8,7 @@ The pastoral concern behind the teaching—freedom from shame and condemnation�
 
 **Assessment:** This is best classified as **hyper-grace with antinomian tendencies**. It is a serious doctrinal error because it undermines repentance, sanctification, self-examination, church discipline, and the ordinary means by which the Spirit preserves believers in holiness. Its use of orthodox words such as “Jesus,” “grace,” “finished work,” and “righteousness” does not make the teaching sound.
 
-## Reformed biblical warning
+## Biblical warning
 
 The church must not accept a preacher merely because he speaks warmly about grace or frequently mentions the finished work of Christ. The question is whether his teaching agrees with the whole counsel of God.
 
