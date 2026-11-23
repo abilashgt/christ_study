@@ -206,6 +206,99 @@ The most faithful formulation is:
 
 > The Holy Spirit does not condemn believers, but He does convict and correct them in order to lead them to confession, repentance, holiness, and deeper dependence on Christ.
 
+## Historical doctrinal parallels
+
+### Closest parallel: antinomianism
+
+The closest historical parallel is **antinomianism**—the tendency to deny that God’s law has an ongoing role in exposing sin, producing repentance, or guiding Christian obedience.
+
+The classic historical controversy occurred during the Reformation, especially between Martin Luther and Johannes Agricola. Agricola argued that repentance was produced by the Gospel rather than by the Law and that there was no proper place for the Law and its preaching in the Christian church. Luther rejected this position and maintained that the Law exposes sin and brings contrition, while the Gospel comforts the repentant conscience.
+
+[The Antinomistic Controversy — Book of Concord](https://thebookofconcord.org/introductory-materials/historical-introductions/the-antinomistic-controversy/)
+
+The resemblance to Prince’s teaching is seen in several points:
+
+| Prince’s emphasis | Antinomian resemblance |
+|---|---|
+| The Holy Spirit does not convict believers of their sins. | The Christian does not need the Law or another condemning voice to expose sin. |
+| The Spirit convicts believers of righteousness instead. | Repentance and Christian assurance are located almost exclusively in Gospel comfort. |
+| Believers should not be sin-conscious. | Continued attention to the Law, sin, and contrition is treated as spiritually harmful or legalistic. |
+| Grace, rather than law, is emphasized as the engine of holy living. | The Law’s continuing function in sanctification and obedience is minimized. |
+
+This is a **doctrinal resemblance**, not proof that Prince is identical to Agricola. Prince does affirm holiness, says that grace produces changed living, and does not openly call Christians to practice sin. Therefore, the most accurate description is **hyper-grace with antinomian tendencies**, rather than simply labeling the entire ministry “Agricolan antinomianism.”
+
+### Modern category: hyper-grace
+
+“Hyper-grace” is a modern theological label, not the name of an ancient or formally defined church heresy. It is commonly used for teaching that strongly emphasizes complete forgiveness and freedom from condemnation while minimizing ongoing confession, repentance, discipline, the moral law, and the Spirit’s corrective work.
+
+Prince’s statement about the Holy Spirit fits this modern category because it makes the believer’s righteousness the exclusive object of the Spirit’s conviction and treats conviction of sin as accusation or condemnation. The central concern is not that grace is emphasized, but that grace is made to exclude biblical correction.
+
+### Historical labels that do not fit well
+
+- **Marcionism:** This is not a good identification. Marcion rejected the Old Testament and taught that the God of the Old Testament was different from the Father revealed by Jesus. Prince does not appear to teach two gods or reject the Old Testament as Scripture.
+- **Gnosticism:** There is no necessary connection to Gnostic teaching about salvation through secret knowledge, an evil material creation, or Christ merely appearing to be human.
+- **Pelagianism:** This is almost the opposite error. Pelagianism emphasizes human ability and moral effort, whereas Prince strongly emphasizes grace and Christ’s finished work.
+- **Nicolaitanism:** The identity and doctrine of the biblical Nicolaitans are too uncertain to use this label responsibly.
+
+### Historical conclusion
+
+The most responsible historical classification is:
+
+> Joseph Prince’s teaching is not best identified with Marcionism, Gnosticism, or Pelagianism. Its closest historical family resemblance is to antinomianism, expressed in a modern hyper-grace form.
+
+This does not by itself settle whether every doctrine taught by Prince is outside historic Christian orthodoxy. It does show that the claim “the Holy Spirit never convicts believers of sin” repeats the central antinomian tendency to separate Gospel comfort from the Law’s continuing work of exposing sin, producing repentance, and guiding holiness.
+
+## Justin Peters on this specific teaching
+
+Justin Peters directly addresses Joseph Prince in his sermon **“The Devilish Puppet Master of the Word-Faith Movement.”** Peters identifies Prince as a prominent Word-Faith teacher and critiques Prince’s treatment of repentance and sin.
+
+[The Devilish Puppet Master of the Word-Faith Movement — Justin Peters](https://www.gty.org/sermons/print/TM13-10/the-devilish-puppet-master-of-the-word-faith-movement-justin-peters)
+
+### Peters’s main objection
+
+Peters acknowledges that *metanoia* can mean “a change of mind,” but argues that biblical repentance is more than adopting a positive outlook or changing one’s attitude. According to Peters:
+
+- Genuine repentance is granted by the Holy Spirit.
+- The Spirit produces godly sorrow over sin.
+- Genuine repentance results in changed desires, conduct, and spiritual fruit.
+- Repentance is not a human work that earns salvation, but God’s gracious work in the sinner.
+
+This directly challenges Prince’s framework if Prince’s teaching is taken to mean that the Holy Spirit does not expose sin or produce sorrow over sin in believers.
+
+### Peters’s own doctrinal position
+
+Justin Peters Ministries states that the Holy Spirit convicts of sin, righteousness, and judgment, grants repentance, and produces ongoing progressive sanctification. It also describes justification as being evidenced by repentance from sin and progressive holiness.
+
+[Justin Peters Ministries — Statement of Faith](https://justinpeters.org/statement-of-faith/)
+
+Peters’s gospel summary similarly says that the Holy Spirit convicts of sin, righteousness, and judgment and grants repentance from sin through the Word of God.
+
+[Justin Peters Ministries — The Gospel](https://justinpeters.org/the-gospel-2/)
+
+### Godly sorrow versus condemnation
+
+In his personal testimony, Peters distinguishes between a guilty conscience that produces worldly sorrow and godly sorrow that leads to repentance. He says that when God grants genuine repentance, sin grieves the believer, desires change, and a pattern of holiness begins to appear.
+
+[Justin Peters — Testimony](https://justinpeters.org/about-justin/testimony/)
+
+This distinction is important because Peters does not treat every painful awareness of sin as condemnation. His position is closer to the biblical distinction developed in this note:
+
+| Justin Peters’s emphasis | Joseph Prince’s emphasis |
+|---|---|
+| The Spirit convicts of sin, righteousness, and judgment. | The Spirit convicts believers of righteousness, not their sins. |
+| The Spirit grants godly sorrow and repentance. | Conviction of sin is associated with the accuser or conscience. |
+| Repentance includes changed desires and visible fruit. | Believers should focus on their righteous standing rather than sin-consciousness. |
+| Assurance and repentance belong together. | Assurance is emphasized in opposition to condemnation. |
+
+### Assessment of Peters’s view
+
+Peters’s critique supports the strongest biblical objection to Prince’s absolute wording. He preserves both sides of the biblical message:
+
+1. Believers are justified by grace alone and are not under condemnation.
+2. The Holy Spirit continues to expose sin, grant repentance, produce godly sorrow, and sanctify believers.
+
+Peters would therefore likely regard Prince’s statement as a serious hyper-grace error when it is understood to deny the Spirit’s corrective work in believers. Peters’s criticism is not that Christians should live under shame, but that freedom from condemnation must never be confused with freedom from repentance, holiness, or the Spirit’s conviction.
+
 ## Historical and doctrinal note
 
 Prince’s wording appears consistently in the materials identified above, although his emphasis is often framed as a contrast between the Holy Spirit’s work and the accuser’s condemnation. The most charitable reading is that he is rejecting condemning, shame-producing guilt—not denying every form of divine correction.
