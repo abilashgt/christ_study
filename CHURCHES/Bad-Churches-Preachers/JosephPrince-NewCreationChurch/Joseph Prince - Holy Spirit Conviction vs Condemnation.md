@@ -1,8 +1,27 @@
 # Joseph Prince — “The Holy Spirit Never Convicts You of Your Sins”
 
-## Source
+## Executive summary
+
+Joseph Prince’s repeated claim is that the Holy Spirit does not convict believers of their sins, but convicts them of their righteousness in Christ. His pastoral concern is to protect Christians from condemnation, shame, and fear.
+
+The strongest biblical qualification is that Scripture distinguishes condemnation from corrective conviction. The Bible teaches that believers are not condemned in Christ, but are still reproved, disciplined, called to confess sin, led to repentance, and sanctified by the Holy Spirit.
+
+**Assessment:** The most accurate historical and theological classification is **hyper-grace with antinomian tendencies**, not Marcionism, Gnosticism, or Pelagianism. Justin Peters explicitly rejects the same framework and emphasizes Spirit-given repentance, godly sorrow, and progressive holiness.
+
+## Primary source
 
 Joseph Prince, *Destined to Reign*, chapter 11, pp. 134–135.
+
+## Scope and source method
+
+This note distinguishes between:
+
+- **Primary sources:** Joseph Prince’s books and official ministry material; Justin Peters’s own ministry statement, testimony, and recorded teaching.
+- **Biblical sources:** Scripture passages evaluated in context.
+- **Historical sources:** Reformation-era materials describing the antinomian controversy.
+- **Secondary sources:** Critical articles or quotations that require verification against the original book or recording.
+
+The conclusion is a theological assessment of a specific teaching, not a final judgment on every doctrine, sermon, or individual associated with Joseph Prince or New Creation Church.
 
 Prince states that “the Holy Spirit never convicts you of your sins.” His concern is that Christians may mistake condemnation and accusation for the Spirit’s work and consequently live under shame instead of resting in Christ’s finished work.
 
@@ -304,3 +323,45 @@ Peters would therefore likely regard Prince’s statement as a serious hyper-gra
 Prince’s wording appears consistently in the materials identified above, although his emphasis is often framed as a contrast between the Holy Spirit’s work and the accuser’s condemnation. The most charitable reading is that he is rejecting condemning, shame-producing guilt—not denying every form of divine correction.
 
 Nevertheless, his repeated use of absolute language makes the distinction difficult to maintain biblically. The wider New Testament teaches both **no condemnation for those in Christ** and **reproof, discipline, repentance, and holiness for believers**.
+
+## References and source notes
+
+### Joseph Prince and New Creation Church
+
+- Prince, Joseph. *Destined to Reign: The Secret to Effortless Success, Wholeness and Victorious Living*. Harrison House, 2007, chapter 11, especially pp. 134–139. [Google Books catalog record](https://books.google.com/books/about/Destined_to_Reign.html?id=w8vehQUDSpoC)
+- Prince, Joseph. *Reign in Life: 90 Powerful Inspirations for Extraordinary Breakthroughs*. The official ministry devotional identifies this book as the source of the teaching on the Holy Spirit convicting believers of righteousness. [Joseph Prince Ministries devotional](https://www.josephprince.org/blog/daily-grace-inspirations/the-holy-spirit-convicts-believers-of-righteousness)
+- “Are You Fully Awake?” [JosephPrince.com](https://www.josephprince.com/meditate-devo/are-you-fully-awake)
+- *Grace Revolution*. A quotation attributed to this book is discussed in the secondary source below; the exact page should be checked against a licensed copy before treating it as a verified citation.
+
+### Justin Peters
+
+- Peters, Justin. “The Devilish Puppet Master of the Word-Faith Movement.” [Grace to You sermon transcript](https://www.gty.org/sermons/print/TM13-10/the-devilish-puppet-master-of-the-word-faith-movement-justin-peters)
+- [Justin Peters Ministries — Statement of Faith](https://justinpeters.org/statement-of-faith/)
+- [Justin Peters Ministries — The Gospel](https://justinpeters.org/the-gospel-2/)
+- [Justin Peters — Testimony](https://justinpeters.org/about-justin/testimony/)
+
+### Biblical passages
+
+- [John 16:8–13](https://www.biblegateway.com/passage/?search=John+16%3A8-13&version=ESV) — the Spirit convicts the world and guides into truth.
+- [Acts 20:27](https://www.biblegateway.com/passage/?search=Acts+20%3A27&version=ESV) — the whole counsel of God.
+- [2 Corinthians 7:9–10](https://www.biblegateway.com/passage/?search=2+Corinthians+7%3A9-10&version=ESV) — godly grief produces repentance.
+- [Hebrews 12:5–11](https://www.biblegateway.com/passage/?search=Hebrews+12%3A5-11&version=ESV) — God reproves and disciplines His children.
+- [Revelation 3:19](https://www.biblegateway.com/passage/?search=Revelation+3%3A19&version=ESV) — Christ reproves and disciplines those He loves.
+- [1 John 1:8–10](https://www.biblegateway.com/passage/?search=1+John+1%3A8-10&version=ESV) — believers acknowledge and confess sin.
+- [1 Corinthians 11:28–32](https://www.biblegateway.com/passage/?search=1+Corinthians+11%3A28-32&version=ESV) — self-examination and the Lord’s discipline.
+- [Ephesians 4:30](https://www.biblegateway.com/passage/?search=Ephesians+4%3A30&version=ESV) — believers can grieve the Holy Spirit.
+- [Galatians 5:16–25](https://www.biblegateway.com/passage/?search=Galatians+5%3A16-25&version=ESV) — walking by the Spirit and rejecting the works of the flesh.
+- [Romans 8:1, 13](https://www.biblegateway.com/passage/?search=Romans+8%3A1%2C+13&version=ESV) — no condemnation and putting sin to death by the Spirit.
+- [2 Timothy 3:16–17](https://www.biblegateway.com/passage/?search=2+Timothy+3%3A16-17&version=ESV) — Scripture’s work of reproof, correction, and training.
+
+### Historical theology
+
+- [The Antinomistic Controversy — Book of Concord](https://thebookofconcord.org/introductory-materials/historical-introductions/the-antinomistic-controversy/) — historical account of the Agricola–Luther controversy over law, repentance, and the Christian life.
+
+### Secondary and critical sources
+
+- [Rev. George Ong on Joseph Prince and John 16:8–11](https://www.revgeorgeong.com/rev-george-ong-joseph-princes-teaching-that-the-holy-spirit-does-not-convict-us-of-sin-but-the-devil-does-a-good-job-of-that-has-not-only-cast-scorn-and-discredited-all-the-revivals-in-chur/) — used only to locate the *Grace Revolution* quotation and reported sermon material; it is polemical and should not be treated as a neutral source.
+
+### Source-quality note
+
+Official ministry pages are the strongest sources for documenting what Prince and Peters publicly teach. The Bible links provide the cited ESV passages, while the historical source documents the antinomian controversy. Secondary critics are useful for locating quotations, but claims from them should be checked against the original book, sermon, or official transcript whenever possible.
